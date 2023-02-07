@@ -9,6 +9,8 @@ De documentatie is nog volop in ontwikkeling
 
 1. Over OSPO-nl
 
+1.1. Overzicht Nederlandse organisaties met een OSPO
+
 2. Best practices
 
 2.1. Best practices 1
