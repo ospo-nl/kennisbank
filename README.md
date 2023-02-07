@@ -1,15 +1,15 @@
+```{warning}
+De documentatie is nog volop in ontwikkeling
+```
+
+
 # Kennisbank
 
-Structuur:
-1. Formalities
+## Structuur
 
-1.1. 
+1. Over OSPO-nl
 
-1.2.
-
-1.3.
-
-2. Open Source gebruiken 
+2. Best practices
 
 2.1. Best practices 1
 
@@ -17,13 +17,15 @@ Structuur:
 
 2.3. Best practices X
 
-3. Open Source ontwikkelen
+3. Community
 
-3.1. Best practices 1
+3.1. Code of conduct
 
-3.2. Best practices 2
+3.2. Contributing
 
-3.3. Best practices X
+3.3. Project governance
+
+3.4. Help
 
 ## Formalities
 Dit project is opgezet als een open source project. Iedereen is welkom om bijdragen te leveren. De licentie is daarom ook vrij en geeft ook vrijheid om afgeleide werken te maken. Wij zijn inclusief en maken geen onderscheid in etniciteit, sekse of andere persoonlijke voorkeuren; bijdragen worden geacht zich daar aan te houden.
