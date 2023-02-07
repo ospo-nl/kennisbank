@@ -30,8 +30,8 @@ De documentatie is nog volop in ontwikkeling
 ## Formalities
 Dit project is opgezet als een open source project. Iedereen is welkom om bijdragen te leveren. De licentie is daarom ook vrij en geeft ook vrijheid om afgeleide werken te maken. Wij zijn inclusief en maken geen onderscheid in etniciteit, sekse of andere persoonlijke voorkeuren; bijdragen worden geacht zich daar aan te houden.
 
-## License
-Dit project is licensed onder de [Creative Commons Attribution 4.0 International License](https://github.com/ospo-nl/kennisbank/blob/main/LICENSE).
+## Licentie
+Dit project is gelicentieerd onder de [Creative Commons Attribution 4.0 International License](https://github.com/ospo-nl/kennisbank/blob/main/LICENSE).
 
 ## Roadmap  
 Voor de roadmap gebruiken we github projects. De roadmap kan [hier]([https://github.com/orgs/lfenergyarchitecturemodel/projects/1/views/1](https://github.com/orgs/ospo-nl/projects/1)) gevonden worden.
