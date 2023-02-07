@@ -1,4 +1,4 @@
-# kennisbank
+# Kennisbank
 
 Structuur:
 1. Formalities
