@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "OSPO-NL Kennisbank"
+version = "0.1.0"
+description = "OSPO-NL Kennisbank"
+authors = ["OSPO-NL authors"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs-material = "^9.0.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
