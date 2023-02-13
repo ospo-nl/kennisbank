@@ -194,6 +194,13 @@ Alinea's worden op of binnen **120 karakters** afgekapt om versiebeheer per rege
 automatisch worden afgedwongen in tooling, bijv. [Rewrap in VSCode](https://stkb.github.io/Rewrap/) (keyboard shortcut:
 `alt+Q`).
 
+## Bestandsnamen
+
+Alle bestandsnamen, zowel van bestanden (files) als van mappen (folders), komen terug in de URL van de gepubliceerde
+documentatie ... en dat is niet zo standaard voor URLs. Daarom worden er GEEN spaties gebruikt in bestandsnamen. Deze
+worden vervangen door `_`, underscores. In het genereren van de documentatie worden deze netjes vervangen door spaties
+zodat de layout er wel mooi en netjes uit ziet! :muscle:
+
 # Community
 
 De OSPO-NL Community is nog in oprichting. Voor dit moment zijn er nog geen officiële kanalen en samenwerkingsverbanden
