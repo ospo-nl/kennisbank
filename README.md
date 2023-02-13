@@ -4,6 +4,8 @@ De documentatie is nog volop in ontwikkeling
 
 # Kennisbank
 
+Deze documentatie is gepubliceerd op [ospo-nl.github.io/kennisbank](https://ospo-nl.github.io/kennisbank/).
+
 ## Structuur
 
 1. Over OSPO-nl
