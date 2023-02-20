@@ -14,11 +14,11 @@ Deze documentatie is gepubliceerd op [ospo-nl.github.io/kennisbank](https://ospo
 
 2. Best practices
 
-2.1. Best practices 1
+2.1. Best practices 1 (Alliander)
 
-2.2. Best practices 2
+2.2. Best practices 2 (Kadaster)
 
-2.3. Best practices X
+2.3. Best practices 3 (Belastingdienst)
 
 3. Community
 
