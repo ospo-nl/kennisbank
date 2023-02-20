@@ -189,6 +189,7 @@ maken we gebruik van **Markdown**. Zie ook [GitHub
 Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 en de algemene [Markdown handleiding](https://www.markdownguide.org/basic-syntax/) (EN) (of zelfs de originele
 [documentatie](https://daringfireball.net/projects/markdown/syntax)).
+De documentatie van het gebruikte [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/) thema benoemt de opmaak die extra wordt ondersteunt door het thema.
 
 Alinea's worden op of binnen **120 karakters** afgekapt om versiebeheer per regel beheersbaar te maken. Dit kan
 automatisch worden afgedwongen in tooling, bijv. [Rewrap in VSCode](https://stkb.github.io/Rewrap/) (keyboard shortcut:
