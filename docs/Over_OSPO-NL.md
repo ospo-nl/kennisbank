@@ -18,7 +18,7 @@ En mogelijk meer gestandaardiseerd. Dat is geen doel op zich ... maar waarom een
 Veel inspiratie en inhoud kan al gevonden worden op de community waar we nauw mee verbonden zijn: [TODO
 Group](https://todogroup.org/). We willen daar vooral ook samenwerking mee hebben en gebruik maken van de resources die
 daar beschikbaar zijn. MAAR ... Nederlandse invulling, vertalingen en specifieke samenwerkingen passen beter in een
-eigen 'NL chapter', een eigen Nederlands initiatief. Vandaar [OSPO-NL(https://github.com/ospo-nl) :rocket:
+eigen 'NL chapter', een eigen Nederlands initiatief. Vandaar [OSPO-NL](https://ospo-nl.github.io/kennisbank/) :rocket:
 
 Voor meer informatie over onze [community](Community/) en werkwijze, check onze [CONTRIBUTING
 GUIDE](Community/CONTRIBUTING/) en [CODE OF CONDUCT](Community/CODE_OF_CONDUCT/).
