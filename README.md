@@ -30,6 +30,21 @@ Deze documentatie is gepubliceerd op [ospo-nl.github.io/kennisbank](https://ospo
 
 3.4. Help
 
+## Development
+
+Voordat lokaal gebouwd kan worden, moeten alle dependencies geïnstalleerd worden:
+
+```bash
+pip install poetry
+poetry install --no-interaction
+```
+
+Lokaal kan vervolgens de documentatie site gebouwd en getest worden met:
+
+```bash
+poetry run mkdocs serve
+```
+
 ## Roadmap
 
 Voor de [roadmap](https://github.com/orgs/ospo-nl/projects/1) gebruiken we GitHub Projects.
