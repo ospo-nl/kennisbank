@@ -1,0 +1,6 @@
+site_name: OSPO-NL Kennisbank
+repo_url: https://github.com/ospo-nl/kennisbank/
+theme:
+  name: material
+  features:
+    - content.action.edit
