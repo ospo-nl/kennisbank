@@ -18,17 +18,23 @@ Deze documentatie is gepubliceerd op [ospo-nl.github.io/kennisbank](https://ospo
 
 2.2. Best practices 2
 
-2.3. Best practices X
+2.3. Best practices 3
 
-3. Community
+3. Case studies
 
-3.1. Code of conduct
+3.1. Case study 1
 
-3.2. Contributing
+3.2 Case study 2
 
-3.3. Project governance
+4. Community
 
-3.4. Help
+4.1. Code of conduct
+
+4.2. Contributing
+
+4.3. Project governance
+
+4.4. Help
 
 ## Development
 
