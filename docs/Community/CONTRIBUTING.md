@@ -38,15 +38,15 @@ bijdragen te sluiten. Daarbij zullen wij verwijzen naar deze richtlijnen / Contr
 > - Verwijs naar dit project in de readme van uw project
 > - Noem het project op lokale meetups en vertel het aan je vrienden/collega's
 
-# Basis regels
+## Basis regels
 
-## Gedragscode
+### Gedragscode
 
 Dit project en iedereen die eraan deelneemt, wordt bestuurd door de [OSPO-NL Gedragscode](CODE_OF_CONDUCT.md). Door deel
 te nemen, wordt van u verwacht dat u zich aan deze code houdt. Gelieve onaanvaardbaar gedrag te melden volgens de
 [Gedragscode#Handhaving](CODE_OF_CONDUCT.md#handhaving).
 
-## Verwachtingen
+### Verwachtingen
 
 Vrijwel alle content is beschreven in Markdown. Daarbij maken wij gebruik van MkDocs Material om alle documentatie te
 publiceren. Bij gebruik van plaatjes is het fijn als de bron daarvan ook onderdeel is van dit project ... en bij
@@ -64,7 +64,7 @@ tools. Nogmaals: bij voorkeur.
   - `Enhancement` betekent een bijdrage voor uitbreiding
   - `Question` betekent een vraag
 
-# Ik heb een vraag
+## Ik heb een vraag
 
 > Als je een vraag wilt stellen, gaan we ervan uit dat je de beschikbare
 > [documentatie](https://ospo-nl.github.io/kennisbank/) hebt gelezen.
@@ -83,16 +83,16 @@ Als je dan toch de behoefte voelt om een vraag te stellen en verduidelijking nod
 
 We zullen het probleem dan zo snel mogelijk in behandeling nemen.
 
-# Ik wil bijdragen
+## Ik wil bijdragen
 
 > **Juridische mededeling**
 >
 > Wanneer u bijdraagt aan dit project, moet u ermee instemmen dat u 100% van de inhoud hebt geschreven, dat u over de
 > benodigde rechten op de inhoud beschikt en dat de inhoud die u bijdraagt onder de projectlicentie mag worden geleverd.
 
-## Issues melden
+### Issues melden
 
-### Voordat u een issue indient
+#### Voordat u een issue indient
 
 Een goed issue zou er niet voor moeten zorgen dat anderen u moeten achtervolgen voor meer informatie. Daarom vragen we u
 om dit zorgvuldig te onderzoeken, informatie te verzamelen en het probleem in detail te beschrijven in uw melding.
@@ -108,7 +108,7 @@ Voor dit moment is er alleen documentatie en zijn verdere voorbereidingen niet n
 componenten opgeleverd worden, dan is het van belang om de details daarvan ook duidelijk te melden en te onderzoeken of
 het daadwerkelijk een probleem met die software is of dat het wellicht toch een fout in uw omgeving is.
 
-### Hoe dien ik een goed issue in?
+#### Hoe dien ik een goed issue in?
 
 > U mag beveiligingsgerelateerde problemen, kwetsbaarheden of issues, inclusief gevoelige informatie, nooit melden aan
 > de issue tracker of elders in het openbaar. In plaats daarvan moeten gevoelige bugs per e-mail naar <TODO> worden
@@ -126,18 +126,18 @@ Zodra het is ingediend:
 - Het projectteam zal het probleem dienovereenkomstig labelen.
 - Een teamlid zal proberen het issue te begrijpen en op te volgen.
 
-### Meer hulp
+#### Meer hulp
 
 Hier zijn een paar vriendelijke (maar Engelse) handleidingen voor meer hulp en achtergronden: [First Timers
 Only](http://www.firsttimersonly.com/) en [Make A Pull Request](http://makeapullrequest.com/)
 
-## Verbeteringen voorstellen
+### Verbeteringen voorstellen
 
 Deze sectie begeleidt u bij het indienen van een verbeteringssuggestie voor OSPO-NL, **inclusief volledig nieuwe
 functies en kleine verbeteringen aan bestaande functionaliteit**. Door deze richtlijnen te volgen, kunnen beheerders en
 de community uw suggestie begrijpen en gerelateerde suggesties vinden.
 
-### Voordat u een verbetering indient
+#### Voordat u een verbetering indient
 
 - Zorg ervoor dat u de nieuwste versie gebruikt.
 - Lees de [documentatie](https://ospo-nl.github.io/kennisbank/) aandachtig door en ontdek of de functionaliteit al wordt
@@ -151,7 +151,7 @@ de community uw suggestie begrijpen en gerelateerde suggesties vinden.
   Als u zich slechts op een minderheid van gebruikers richt, overweeg dan om een bibliotheek met add-ons/plug-ins te
   schrijven.
 
-### Hoe dien ik een goede verbeteringssuggestie in?
+#### Hoe dien ik een goede verbeteringssuggestie in?
 
 Suggesties voor verbeteringen worden bijgehouden als [GitHub issues](https://github.com/ospo-nl/kennisbank/issues).
 
@@ -165,7 +165,7 @@ Suggesties voor verbeteringen worden bijgehouden als [GitHub issues](https://git
 - Leg uit waarom deze verbetering nuttig zou zijn voor de meeste gebruikers van OSPO-NL. Misschien wil je ook wijzen op
   de andere projecten die het beter hebben opgelost en die als inspiratie kunnen dienen.
 
-# Review proces
+## Review proces
 
 Om wijzigingen goed te kunnen beheren, volgen en uit te leggen, volgen we een eenvoudig proces van review en Pull
 Requests (PRs).
@@ -180,9 +180,9 @@ Requests (PRs).
 - Na de merge dienen bijbehorende issues bijgewerkt te worden zodat deze niet onnodig open blijven staan ofwel
   beantwoord worden.
 
-# Styleguides
+## Styleguides
 
-## Markdown
+### Markdown
 
 Alle documentatie moet 'machine-readable' zijn en tegelijk ook makkelijk leesbaar en onderhoudbaar voor mensen. Daarom
 maken we gebruik van **Markdown**. Zie ook [GitHub
@@ -195,19 +195,19 @@ Alinea's worden op of binnen **120 karakters** afgekapt om versiebeheer per rege
 automatisch worden afgedwongen in tooling, bijv. [Rewrap in VSCode](https://stkb.github.io/Rewrap/) (keyboard shortcut:
 `alt+Q`).
 
-## Bestandsnamen
+### Bestandsnamen
 
 Alle bestandsnamen, zowel van bestanden (files) als van mappen (folders), komen terug in de URL van de gepubliceerde
 documentatie ... en dat is niet zo standaard voor URLs. Daarom worden er GEEN spaties gebruikt in bestandsnamen. Deze
 worden vervangen door `_`, underscores. In het genereren van de documentatie worden deze netjes vervangen door spaties
 zodat de layout er wel mooi en netjes uit ziet! :muscle:
 
-# Community
+## Community
 
 De OSPO-NL Community is nog in oprichting. Voor dit moment zijn er nog geen officiële kanalen en samenwerkingsverbanden
 anders dan actief betrokken personen. Zie ook meer in de [over ons](https://ospo-nl.github.io/kennisbank/Over_ons).
 
-# Attribution
+## Attribution
 
 Een eigen CONTRIBUTING maken is niet echt moeilijk ... en toch ook weer wel. Inspiratie voor deze variant komt van een
 [template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) en **contributing-gen**.
