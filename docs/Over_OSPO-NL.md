@@ -1,5 +1,7 @@
 # Over OSPO-NL
 
+<img src="../assets/images/ospo-nl-logo-green.png" width="200px" align="right" alt="OSPO-NL Logo"/>
+
 OSPO staat voor Open Source Program Office. De toevoeging NL doelt op de Nederlandse samenwerking om kennis en best
 practices te delen voor het opzetten en uitvoeren van OSPO's (of OSPOs) bij organisaties in Nederland. Het is niet van
 belang of deze organisatie commerciële bedrijven zijn of overheidsinstanties.
