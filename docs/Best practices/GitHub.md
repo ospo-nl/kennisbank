@@ -1,4 +1,6 @@
-# Inrichten GitHub organisatie
+# GitHub
+
+Tips voor het gebruik van GitHub en het inrichten van de GitHub organisatie.
 
 ## .github repository
 
