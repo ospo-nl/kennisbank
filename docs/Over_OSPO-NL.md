@@ -20,5 +20,5 @@ Group](https://todogroup.org/). We willen daar vooral ook samenwerking mee hebbe
 daar beschikbaar zijn. MAAR ... Nederlandse invulling, vertalingen en specifieke samenwerkingen passen beter in een
 eigen 'NL chapter', een eigen Nederlands initiatief. Vandaar [OSPO-NL](https://ospo-nl.github.io/kennisbank/) :rocket:
 
-Voor meer informatie over onze [community](Community/) en werkwijze, check onze [CONTRIBUTING
-GUIDE](Community/CONTRIBUTING/) en [CODE OF CONDUCT](Community/CODE_OF_CONDUCT/).
+Voor meer informatie over onze [community](/Community/) en werkwijze, check onze [CONTRIBUTING
+GUIDE](/Community/CONTRIBUTING/) en [CODE OF CONDUCT](/Community/CODE_OF_CONDUCT/).
