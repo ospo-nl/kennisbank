@@ -18,14 +18,14 @@ Zie de [Wikipedia pagina Publieke sector](https://nl.wikipedia.org/wiki/Publieke
       [:material-web:]()
     - ICTU
       [:material-github:](https://github.com/ICTU)
-      [:material-mail:](info@ictu.nl)
+      [:material-mail:](mailto:info@ictu.nl)
       [:material-web:](https://www.ictu.nl)
     - Kadaster
       [:material-github:](https://github.com/Kadaster)
       [:material-web:](https://www.kadaster.nl)
     - KOOP (Kennis- en Exploitatiecentrum Officiële Overheidspublicaties)
       [:material-github:](https://github.com/dataoverheid)
-      [:material-mail:](opendata@overheid.nl)
+      [:material-mail:](mailto:opendata@overheid.nl)
       [:material-web:](https://data.overheid.nl)
 - Ministerie van Buitenlandse Zaken
 - Ministerie van Defensie
@@ -42,7 +42,7 @@ Zie de [Wikipedia pagina Publieke sector](https://nl.wikipedia.org/wiki/Publieke
       [:material-web:](https://www.politie.nl)
     - Nationaal Cyber Security Center (NCSC) 
       [:material-github:](https://github.com/NCSC-NL)
-      [:material-mail:](info@ncsc.nl)
+      [:material-mail:](mailto:info@ncsc.nl)
       [:material-web:](https://www.ncsc.nl/)
 - Ministerie van Landbouw, Natuur en Voedselkwaliteit
 - Ministerie van Onderwijs, Cultuur en Wetenschap
