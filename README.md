@@ -2,9 +2,11 @@
 De documentatie is nog volop in ontwikkeling
 ```
 
-# Kennisbank
+## OSPO-NL Kennisbank
 
-Deze documentatie is gepubliceerd op [ospo-nl.github.io/kennisbank](https://ospo-nl.github.io/kennisbank/).
+De OSPO-NL kennisbank is een verzameling van kennis en best practices voor het opzetten en uitvoeren van OSPO's (of OSPOs) bij organisaties in Nederland.
+
+De OSPO-NL kennisbank is gepubliceerd op [ospo-nl.github.io/kennisbank](https://ospo-nl.github.io/kennisbank/).
 
 ## Structuur
 
@@ -55,10 +57,6 @@ poetry run mkdocs serve
 
 Voor de [roadmap](https://github.com/orgs/ospo-nl/projects/1) gebruiken we GitHub Projects.
 
-## Contact
-
-Lees [SUPPORT](https://ospo-nl.github.io/kennisbank/Community/SUPPORT/) voor de detail over hoe je in contact kunt komen
-met de OSPO-NL community.
 
 ## Formaliteiten
 
@@ -66,10 +64,15 @@ Dit project is opgezet als een open source project. Iedereen is welkom om bijdra
 ook vrij en geeft ook vrijheid om afgeleide werken te maken. Wij zijn inclusief en maken geen onderscheid in etniciteit,
 sekse of andere persoonlijke voorkeuren; bijdragen worden geacht zich daar aan te houden.
 
-Zie ook onze **[Code of Conduct](https://ospo-nl.github.io/kennisbank/Community/CODE_OF_CONDUCT/)**.
-
-Lees de **[Contributing Guide](https://ospo-nl.github.io/kennisbank/Community/CONTRIBUTING/)** voor de details over hoe
-je kan bijdragen.
-
+### Licentie 
 Dit project is gelicentieerd onder de **[Creative Commons Attribution 4.0 International
-License](https://github.com/ospo-nl/kennisbank/blob/main/LICENSE)**.
+License](https://github.com/ospo-nl/.github/blob/main/LICENSE)**.
+
+### Bijdragen
+Lees de **[Code of Conduct](https://ospo-nl.github.io/kennisbank/Community/CODE_OF_CONDUCT/)**, **[Contributing Guide](https://ospo-nl.github.io/kennisbank/Community/CONTRIBUTING/)** en **[Project Governance](https://ospo-nl.github.io/kennisbank/Community/PROJECT_GOVERNANCE/)** voor de details over hoe je kan bijdragen.
+
+
+## Contact
+
+Lees [SUPPORT](https://ospo-nl.github.io/kennisbank/Community/SUPPORT/) voor de detail over hoe je in contact kunt komen
+met de OSPO-NL community.
