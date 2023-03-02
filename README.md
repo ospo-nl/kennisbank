@@ -8,6 +8,8 @@ De OSPO-NL kennisbank is een verzameling van kennis en best practices voor het o
 
 De OSPO-NL kennisbank is gepubliceerd op [ospo-nl.github.io/kennisbank](https://ospo-nl.github.io/kennisbank/).
 
+![image](https://user-images.githubusercontent.com/3628277/222470157-8fffb097-7d34-49b3-8283-da70a20ed5a4.png)
+
 ## Structuur
 
 1. Over OSPO-nl
