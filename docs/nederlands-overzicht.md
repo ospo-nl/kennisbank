@@ -44,7 +44,7 @@ Zie de [Wikipedia pagina Publieke sector](https://nl.wikipedia.org/wiki/Publieke
 - Ministerie van Onderwijs, Cultuur en Wetenschap
 - Ministerie van Sociale Zaken en Werkgelegenheid
 - Ministerie van Volksgezondheid, Welzijn en Sport (VWS)
-    - VWS  
+    - VWS
       [:material-github:](https://github.com/minvws)
       [:material-web:](https://minvws.nl)
 - Tweede Kamer
@@ -77,11 +77,9 @@ Zie de [Wikipedia pagina Publieke sector](https://nl.wikipedia.org/wiki/Publieke
       [:material-github:](https://gitlab.com/KNMI-OSS/)
 
 ## Zelfstandig bestuursorgaan
-- Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK)
     - Kadaster
       [:material-github:](https://github.com/Kadaster)
       [:material-web:](https://www.kadaster.nl)
-- Ministerie van Economische Zaken en Klimaat
     - Centraal Bureau van Statistiek
       [:material-github:](https://github.com/statistiekcbs)
       [:material-mail:](mailto:infoservice@cbs.nl)
