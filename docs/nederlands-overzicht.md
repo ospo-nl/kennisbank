@@ -15,14 +15,11 @@ Zie de [Wikipedia pagina Publieke sector](https://nl.wikipedia.org/wiki/Publieke
 - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK)
     - BZK 
       [:material-github:](https://github.com/MinBZK)
-      [:material-web:]()
+      [:material-web:](https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties)
     - ICTU
       [:material-github:](https://github.com/ICTU)
       [:material-mail:](mailto:info@ictu.nl)
       [:material-web:](https://www.ictu.nl)
-    - Kadaster
-      [:material-github:](https://github.com/Kadaster)
-      [:material-web:](https://www.kadaster.nl)
     - KOOP (Kennis- en Exploitatiecentrum Officiële Overheidspublicaties)
       [:material-github:](https://github.com/dataoverheid)
       [:material-mail:](mailto:opendata@overheid.nl)
@@ -35,6 +32,8 @@ Zie de [Wikipedia pagina Publieke sector](https://nl.wikipedia.org/wiki/Publieke
       [:material-web:](http://www.dictu.nl)
 - Ministerie van Financiën
     - Belastingdienst
+      [:material-web:](https://www.belastingdienst.nl/)
+      [:material-github:](https://github.com/belastingdienst)
 - Ministerie van Infrastructuur en Waterstaat
 - Ministerie van Justitie en Veiligheid
     - Nationale Politie
@@ -52,28 +51,60 @@ Zie de [Wikipedia pagina Publieke sector](https://nl.wikipedia.org/wiki/Publieke
       [:material-github:](https://github.com/minvws)
       [:material-web:](https://minvws.nl)
 - Tweede Kamer
-    [:material-github:](https://github.com/TweedeKamerDerStaten-Generaal)
-    [:material-web:](https://tweedekamer.nl)
+      [:material-github:](https://github.com/TweedeKamerDerStaten-Generaal)
+      [:material-web:](https://tweedekamer.nl)
+
+## Agentschappen
+- Ministerie van Algemene Zaken
+   - Dienst Publiek en Communicatie (DPC)
+      [:material-github:](https://github.com/azdpc)
+      [:material-web:](https://www.rijksoverheid.nl/dpc)
+- Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK)
+    - Logius
+      [:material-github:]( https://gitlab.com/logius)
+    - Logius Standaarden
+      [:material-github:](https://github.com/Logius-standaarden)
+      [:material-mail:](mailto:api@logius.nl)
+      [:material-web:](http://logius.nl/standaarden)
+- Ministerie van Infrastructuur en Waterstaat
+    - Rijkswaterstaat
+      [:material-github:](https://github.com/RWS-NL)
+      [:material-web:](https://www.rijkswaterstaat.nl)
+- Ministerie van Volksgezondheid, Welzijn en Sport (VWS)
+    - RIVM
+      [:material-github:](https://github.com/rivm-syso)
+      [:material-mail:](mailto:info@rivm.nl)
+      [:material-web:](http://www.rivm.nl)
+- Koninklijk Nederlands Meteorologisch Instituut (KNMI)
+    - KNMI
+      [:material-github:](https://gitlab.com/KNMI-OSS/)
+
+## Zelfstandig bestuursorgaan
+- Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK)
+    - Kadaster
+      [:material-github:](https://github.com/Kadaster)
+      [:material-web:](https://www.kadaster.nl)
+- Ministerie van Economische Zaken en Klimaat
+    - Centraal Bureau van Statistiek
+      [:material-github:](https://github.com/statistiekcbs)
+      [:material-mail:](mailto:infoservice@cbs.nl)
+      [:material-web:](https://www.cbs.nl)
+- Koninklijke Bibliotheek 
+    - Koninklijke Bibliotheek
+      [:material-github:](https://github.com/KBNLresearch)
+      [:material-web:](https://twitter.com/KBNLresearch)
+- Nationaal Archief
+    - Nationaal Archief
+      [:material-github:](https://github.com/NationaalArchief)
+      [:material-web:](http://www.nationaalarchief.nl)
 
 - Alliander
 [:material-web:](https://www.alliander.com/nl/open-source/)
 [:material-github:](https://github.com/MinBZK)
 
-- Belastingdienst
-[:material-web:](https://www.belastingdienst.nl/)
-[:material-github:](https://github.com/belastingdienst)
-
 - Common Ground
 [:material-web:](https://commonground.nl/)
 [:material-gitlab:](https://gitlab.com/commonground/)
-
-- Kadaster
-[:material-web:](https://www.kadaster.nl/)
-[:material-github:](https://github.com/Kadaster)
-
-- Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-[:material-web:](https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties)
-[:material-github:](https://github.com/MinBZK)
 
 ## Private sector
 
