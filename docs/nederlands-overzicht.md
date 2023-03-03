@@ -7,9 +7,6 @@ Dit kan vormgegeven zijn met een Open Source Program Office of op een andere man
 
 Zie de [Wikipedia pagina Publieke sector](https://nl.wikipedia.org/wiki/Publieke_sector) voor een indicatie van de verschillende organisaties die hieronder vallen. Dit beslaat zowel overheid als semi-overheidsorganisaties.
 
-// [:material-web:](https://www.alliander.com/nl/open-source/)
-// [:material-github:](https://github.com/MinBZK)
-
 ## Ministeries
 - Ministerie van Algemene Zaken
 - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK)
