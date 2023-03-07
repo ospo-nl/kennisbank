@@ -2,7 +2,7 @@
 De documentatie is nog volop in ontwikkeling
 ```
 
-## OSPO-NL Kennisbank
+# OSPO-NL Kennisbank
 
 De OSPO-NL kennisbank is een verzameling van kennis en best practices voor het opzetten en uitvoeren van OSPO's (of OSPOs) bij organisaties in Nederland.
 
