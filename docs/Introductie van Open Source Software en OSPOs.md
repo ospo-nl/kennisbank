@@ -54,6 +54,6 @@ marktpartijen.
 
 TO DO
 
-## 3. Bronnen
+## Bronnen
 
 Opensourcewerken - https://open.overheid.nl/documenten/ronl-11418083f5e2244a462069137d519ef852237b3f/pdf
