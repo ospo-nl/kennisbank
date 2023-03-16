@@ -77,36 +77,30 @@ Zie de [Wikipedia pagina Publieke sector](https://nl.wikipedia.org/wiki/Publieke
       [:material-github:](https://gitlab.com/KNMI-OSS/)
 
 ## Zelfstandig bestuursorgaan
-    - Kadaster
+- Kadaster
       [:material-github:](https://github.com/Kadaster)
       [:material-web:](https://www.kadaster.nl)
-    - Centraal Bureau van Statistiek
+- Centraal Bureau voor de Statistiek
       [:material-github:](https://github.com/statistiekcbs)
       [:material-mail:](mailto:infoservice@cbs.nl)
       [:material-web:](https://www.cbs.nl)
-- Koninklijke Bibliotheek 
-    - Koninklijke Bibliotheek
+- Koninklijke Bibliotheek
       [:material-github:](https://github.com/KBNLresearch)
       [:material-web:](https://twitter.com/KBNLresearch)
 - Nationaal Archief
-    - Nationaal Archief
       [:material-github:](https://github.com/NationaalArchief)
       [:material-web:](http://www.nationaalarchief.nl)
-
 - Alliander
-[:material-web:](https://www.alliander.com/nl/open-source/)
-[:material-github:](https://github.com/MinBZK)
-
+      [:material-web:](https://www.alliander.com/nl/open-source/)
+      [:material-github:](https://github.com/MinBZK)
 - Common Ground
-[:material-web:](https://commonground.nl/)
-[:material-gitlab:](https://gitlab.com/commonground/)
+      [:material-web:](https://commonground.nl/)
+      [:material-gitlab:](https://gitlab.com/commonground/)
 
 ## Private sector
-
 - Philips
-[:material-web:](https://www.philips.com/)
-[:material-github:](https://github.com/philips-software/)
-
+      [:material-web:](https://www.philips.com/)
+      [:material-github:](https://github.com/philips-software/)
 - TomTom
-[:material-web:](https://www.tomtom.com/)
-[:material-github:](https://github.com/tomtom-international)
+      [:material-web:](https://www.tomtom.com/)
+      [:material-github:](https://github.com/tomtom-international)
