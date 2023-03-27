@@ -11,7 +11,7 @@ Open Source Licenties en waar je op moet letten. Immers de ene Open Source licen
 Alles wat je maakt valt standaard onder het auteursrecht (copyright) als onderdeel van het intellectueel eigendomsrecht
 (IE-recht) en mag dus niet zomaar door derden, zonder jouw toestemming, worden (her)gebruikt of gedeeld. Binnen
 softwareontwikkeling hebben we het dan vooral over het ontwikkelen van broncode. Door aan iemand of groepen een
-gebruikerslicentie af te geven kunnen er voorwaarden gesteld worden waarmee de beperkingen van het auteursrecht kunnen
+gebruikerslicentie af te geven worden er voorwaarden gesteld worden waarmee de beperkingen van het auteursrecht kunnen
 worden versoepelt. Je kan bijv. specifieke gebruikers een licentie geven de code te mogen gebruiken. Een open source
 software (OSS) licentie standaardiseerd de belangrijkste aspecten die nodig zijn voor een vrije omgang met het
 auteursrecht. Het gebruik van gestandaardiseerde licenties maakt het voor jezelf makkelijker om niet in juridische
