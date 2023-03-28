@@ -6,3 +6,5 @@ ignorePaths:
   # Ignore License files that should not be touched
   - "LICENSE"
   - "LICENSES/*"
+import:
+  - "@cspell/dict-nl-nl/cspell-ext.json"
