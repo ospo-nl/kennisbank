@@ -82,8 +82,8 @@ Dit project is opgezet als een open source project. Iedereen is welkom om bijdra
 ook vrij en geeft ook vrijheid om afgeleide werken te maken. Wij zijn inclusief en maken geen onderscheid in etniciteit,
 sekse of andere persoonlijke voorkeuren; bijdragen worden geacht zich daar aan te houden.
 
-### Licentie 
-Dit project is gelicentieerd onder de **[Creative Commons Attribution 4.0 International
+### Licentie
+Dit project is gelicenseerd onder de **[Creative Commons Attribution 4.0 International
 License](https://github.com/ospo-nl/.github/blob/main/LICENSE)**.
 
 ### Bijdragen
