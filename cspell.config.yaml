@@ -1,0 +1,8 @@
+language: en
+dictionaries: ["nl-nl"]
+ignorePaths:
+  # Ignore GIMP files
+  - "**/*.xcf"
+  # Ignore License files that should not be touched
+  - "LICENSE"
+  - "LICENSES/*"

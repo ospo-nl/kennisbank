@@ -55,6 +55,22 @@ Lokaal kan vervolgens de documentatie site gebouwd en getest worden met:
 poetry run mkdocs serve
 ```
 
+### Spellingscontrole
+
+Dit project maakt gebruik van [CSpell](https://cspell.org/), een framework voor spellingscontrole dat goed rekening kan houden met code en andere gangbare platte-tekst formaten.
+Het [nl-nl Dictionary](https://github.com/streetsidesoftware/cspell-dicts/tree/main/dictionaries/nl_NL) is gebaseerd op het eerdere werk in Hunspell.
+Dit woordenboek is niet standaard aanwezig en moet expliciet geinstalleerd worden als je CSpell op je eigen computer wilt uitvoeren.
+Spellingscontrole vindt ook online plaats door middel van een GitHub Action.
+
+Lokaal installeren van CSpell en uitvoeren van de spellingscontrole:
+
+```
+npm install -g cspell@latest
+npm install -g @cspell/dict-nl-nl
+cspell link add @cspell/dict-nl-nl
+cspell "**"
+```
+
 ## Roadmap
 
 Voor de [roadmap](https://github.com/orgs/ospo-nl/projects/1) gebruiken we GitHub Projects.
