@@ -8,3 +8,9 @@ ignorePaths:
   - "LICENSES/*"
 import:
   - "@cspell/dict-nl-nl/cspell-ext.json"
+words:
+  - OSPO
+  - mkdocs
+  - sourcen
+  - maintainen
+  - signoff
