@@ -1,0 +1,15 @@
+{
+  "name": "ospo-nl-kennisbank",
+  "version": "0.1.0",
+  "description": "Open Source Program Office NL kennisbank initiative",
+  "repository": "git@github.com:ospo-nl/kennisbank.git",
+  "author": "Marc van Andel <marc.vanandel@kadaster.nl>",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "cspell": "npx cspell '**/*.md'"
+  },
+  "devDependencies": {
+    "@cspell/dict-nl-nl": "^2.2.8",
+    "cspell": "^6.31.1"
+  }
+}
