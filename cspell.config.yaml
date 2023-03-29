@@ -4,12 +4,12 @@ version: "0.2"
 language: en
 import:
   - "@cspell/dict-nl-nl/cspell-ext.json"
-# dictionaryDefinitions:
-#   - name: ospo-nl-dict
-#     path: "./ospo-nl-dict.txt"
-#     addWords: true
+dictionaryDefinitions:
+  - name: ospo-nl-dict
+    path: "./ospo-nl-dict.txt"
+    addWords: true
 dictionaries:
-  # - ospo-nl-dict
+  - ospo-nl-dict
   - "nl-nl"
 ignorePaths:
   - "node_modules"
@@ -18,10 +18,3 @@ ignorePaths:
   # Ignore License files that should not be touched
   - "LICENSE"
   - "LICENSES/*"
-
-words:
-  - OSPO
-  - mkdocs
-  - sourcen
-  - maintainen
-  - signoff
