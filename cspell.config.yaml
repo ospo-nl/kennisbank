@@ -1,16 +1,20 @@
+---
+$schema: https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+version: "0.2"
 language: en
-dictionaries: ["nl-nl"]
+import:
+  - "@cspell/dict-nl-nl/cspell-ext.json"
+dictionaryDefinitions:
+  - name: ospo-nl-dict
+    path: "./ospo-nl-dict.txt"
+    addWords: true
+dictionaries:
+  - ospo-nl-dict
+  - "nl-nl"
 ignorePaths:
+  - "node_modules"
   # Ignore GIMP files
   - "**/*.xcf"
   # Ignore License files that should not be touched
   - "LICENSE"
   - "LICENSES/*"
-import:
-  - "@cspell/dict-nl-nl/cspell-ext.json"
-words:
-  - OSPO
-  - mkdocs
-  - sourcen
-  - maintainen
-  - signoff

@@ -1,0 +1,6 @@
+# custom words dictionary for cspell
+OSPO
+mkdocs
+sourcen
+maintainen
+signoff
