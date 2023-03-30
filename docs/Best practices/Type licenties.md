@@ -88,10 +88,15 @@ geven aan broncode te werken, zonder de plicht de broncode openbaar te moeten ma
 broncode of het eindproduct wel buiten je organisatie bewust is gedeeld, dan heeft iedereen die aan de broncode heeft 
 gewerkt het recht (die versie van) de broncode ook verder te verspreiden.
 
+Bronnen:
+- https://www.gnu.org/licenses/gpl-faq.en.html#InternalDistribution
+- https://www.mozilla.org/en-US/MPL/2.0/FAQ/ (Q6)
+
 Andersom kan broncode ook prima openbaar worden gemaakt zonder OSS licentie. Daarmee blijft de broncode 
 auteursrechtelijk beschermd en kan het dus niet hergebruikt worden. Openbaarmaking geeft wel inzicht in de broncode.
 
 ## OSPO Reviewed License checklist
+
 Om de toetsing en het gebruik van OSS licenties makkelijker te maken, kan een OSPO Reviewed License checklist helpen. 
 OSPO Reviewed License checklist bevat een overzicht van veel gebruikte OSS licenties en of deze toegestaan zijn voor 
 gebruik binnen je organisatie. Hiermee kun je een helder referentiekader neer te zetten voor je organisatie m.b.t. 
