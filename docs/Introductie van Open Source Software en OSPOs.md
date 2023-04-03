@@ -5,7 +5,7 @@
 ### 1.1 Open Source Software definitie
 
 Open source sofware (OSS) is sofware waarvan de broncode openbaar is. De broncode is het geheel van
-voor mensen leesbare programma-instructies die de programmeur (de maker) geschreven heef.
+voor mensen leesbare programma-instructies die de programmeur (de maker) geschreven heeft.
 Daardoor is te zien hoe het programma in de basis werkt. 
 
 ### 1.2 Voordelen van Open source Software 
