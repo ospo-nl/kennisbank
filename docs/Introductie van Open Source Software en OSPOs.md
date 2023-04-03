@@ -31,10 +31,10 @@ vergroten. En daarmee de participatie van de samenleving in het openbaar bestuur
 en de legitimiteit en het draagvlak voor te maken keuzen in beleid en uitvoering vergroten.
 
 Veiligheid
-• Openbaarheid van de broncode biedt derden de kans om de sofwarekwaliteit te toetsen en op
+- Openbaarheid van de broncode biedt derden de kans om de sofwarekwaliteit te toetsen en op
 fouten of risico’s te onderzoeken. Dit kan bijdragen aan de veiligheid en betrouwbaarheid
 (veel-ogen-principe) van de sofware.
-• Derden kunnen verbetervoorstellen doen.
+- Derden kunnen verbetervoorstellen doen.
 
 Efciency en innovatie
 • Open source bevordert hergebruik en verlaagt daarmee de ontwikkelkosten van sofware.
