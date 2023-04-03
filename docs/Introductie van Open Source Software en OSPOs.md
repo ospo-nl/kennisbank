@@ -45,7 +45,7 @@ Ontwikkelaars kunnen gebruik maken van elkaars ideeën.
 met open source.
 
 Flexibiliteit en onafankelijkheid
-• Open source verhoogt de fexibiliteit in het gebruik van sofware en verkleint de kans op (kostbare)
+- Open source verhoogt de fexibiliteit in het gebruik van sofware en verkleint de kans op (kostbare)
 migratietrajecten, omdat de afankelijkheid van één leverancier wordt vermeden (vendor lock-in).
 Het maakt de overheid soevereiner en minder afankelijk van (grote, machtige, buitenlandse)
 marktpartijen.
