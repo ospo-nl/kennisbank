@@ -37,11 +37,11 @@ fouten of risico’s te onderzoeken. Dit kan bijdragen aan de veiligheid en betr
 - Derden kunnen verbetervoorstellen doen.
 
 Efciency en innovatie
-• Open source bevordert hergebruik en verlaagt daarmee de ontwikkelkosten van sofware.
-• Daarnaast stimuleert open source innovatie en economische groei, vanwege goedkopere toegang
+- Open source bevordert hergebruik en verlaagt daarmee de ontwikkelkosten van sofware.
+- Daarnaast stimuleert open source innovatie en economische groei, vanwege goedkopere toegang
 tot sofware en mogelijkheden om deze te vermarkten en te benuten in eigen diensten.
 Ontwikkelaars kunnen gebruik maken van elkaars ideeën.
-• Open source trekt menselijk kapitaal aan, omdat veel sofwareontwikkelaars bij voorkeur werken
+- Open source trekt menselijk kapitaal aan, omdat veel sofwareontwikkelaars bij voorkeur werken
 met open source.
 
 Flexibiliteit en onafankelijkheid
