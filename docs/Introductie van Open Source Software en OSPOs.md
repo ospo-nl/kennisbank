@@ -22,11 +22,11 @@ In de context van het openbaar bestuur zijn de voordelen breder. Open source is 
 beleidsinstrument om maatschappelijke waarde te realiseren.
 
 Publieke waarden
-• Een belangrijk voordeel van een openbare broncode is dat de werking van de sofware en de functies
+- Een belangrijk voordeel van een openbare broncode is dat de werking van de sofware en de functies
 die daarmee worden uitgevoerd voor iedereen inzichtelijk zijn. Dat inzicht geef vertrouwen in de
 werking en past in het streven naar een transparante overheid.
-• Open source biedt vele mogelijkheden om op nieuwe manieren samen te werken met ketenpartners en medeoverheden. Het draagt daarmee ook bij aan efectief en efciënt openbaar bestuur.
-• Open source kan verder de mogelijkheden tot samenwerking met inwoners en ondernemers
+- Open source biedt vele mogelijkheden om op nieuwe manieren samen te werken met ketenpartners en medeoverheden. Het draagt daarmee ook bij aan efectief en efficiënt openbaar bestuur.
+- Open source kan verder de mogelijkheden tot samenwerking met inwoners en ondernemers
 vergroten. En daarmee de participatie van de samenleving in het openbaar bestuur versterken,
 en de legitimiteit en het draagvlak voor te maken keuzen in beleid en uitvoering vergroten.
 
