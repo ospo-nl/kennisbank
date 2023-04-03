@@ -1,4 +1,4 @@
-# Wetgeving
+# Wetgeving & Open Source
 
 Open Source is op zichzelf geen doel van een rechtmatige overheid. Open Source kan wel een middel zijn
 om als overheid rechtmatig te handelen. De direct betrok wetgeving zijn de Wet open overheid (Woo),
