@@ -36,7 +36,7 @@ fouten of risico’s te onderzoeken. Dit kan bijdragen aan de veiligheid en betr
 (veel-ogen-principe) van de sofware.
 - Derden kunnen verbetervoorstellen doen.
 
-Efciency en innovatie
+Efficiency en innovatie
 - Open source bevordert hergebruik en verlaagt daarmee de ontwikkelkosten van sofware.
 - Daarnaast stimuleert open source innovatie en economische groei, vanwege goedkopere toegang
 tot sofware en mogelijkheden om deze te vermarkten en te benuten in eigen diensten.
