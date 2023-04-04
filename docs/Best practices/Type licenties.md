@@ -3,6 +3,8 @@ De documentatie is nog volop in ontwikkeling
 ```
 # Type licenties
 
+## Open Source licenties
+
 Nu we meer en meer gebruik maken van Open Source software, leek het me een goed idee om nog een keer stil te staan bij 
 Open Source Licenties en waar je op moet letten. Immers de ene Open Source licentie is de andere niet.
 
@@ -12,13 +14,12 @@ Alles wat je maakt valt standaard onder het auteursrecht (copyright) als onderde
 (IE-recht) en mag dus niet zomaar door derden, zonder jouw toestemming, worden (her)gebruikt of gedeeld. Binnen
 softwareontwikkeling hebben we het dan vooral over het ontwikkelen van broncode. Door aan iemand of groepen een
 gebruikerslicentie af te geven kunnen met bepaalde voorwaarden de beperkingen van het auteursrecht worden versoepelt. 
-Je kan bijv. specifieke gebruikers een licentie geven de code te mogen gebruiken. Een open source software (OSS) 
-licentie standaardiseert de belangrijkste aspecten die nodig zijn voor een vrije omgang met het auteursrecht. Het 
-
-gebruik van gestandaardiseerde licenties maakt het voor jezelf makkelijker om niet in juridische valkuilen te stappen 
-bij het opstellen van een licentie en het geeft gebruikers sneller duidelijkheid wat je precies voor ogen hebt met je 
-broncode. Daar bovenop worden de kernwaarden van OSS (zoals verwoord door de Open Source Initiative) naar de 
-buitenwereld gecommuniceerd. Het betreft dan:
+Je kan bijv. specifieke gebruikers een licentie geven de code te mogen gebruiken, te wijzigingen en/of te verspreiden.
+Een open source software (OSS) licentie standaardiseert de belangrijkste aspecten die nodig zijn voor een vrije omgang
+met het auteursrecht. Het gebruik van gestandaardiseerde licenties maakt het voor jezelf makkelijker om niet in juridische
+valkuilen te stappen bij het opstellen van een licentie en het geeft gebruikers sneller duidelijkheid wat je precies voor
+ogen hebt met je broncode. Daar bovenop worden de kernwaarden van OSS (zoals verwoord door de Open Source Initiative) naar
+de buitenwereld gecommuniceerd. Het betreft dan:
 
 - Vrij recht op verdere distributie
 - Vrijheid tot aanpassingen en afleiden van werk
@@ -89,13 +90,9 @@ geven aan broncode te werken, zonder de plicht de broncode openbaar te moeten ma
 broncode of het eindproduct wel buiten je organisatie bewust is gedeeld, dan heeft iedereen die aan de broncode heeft 
 gewerkt het recht (die versie van) de broncode ook verder te verspreiden.
 
-Bronnen:
-- https://www.gnu.org/licenses/gpl-faq.en.html#InternalDistribution
-- https://www.mozilla.org/en-US/MPL/2.0/FAQ/ (Q6)
-
-Andersom kan broncode ook prima openbaar worden gemaakt zonder OSS licentie. Daarmee blijft de broncode 
-auteursrechtelijk beschermd en kan het dus niet worden hergebruikt, worden aangepast worden of worden gedeeld. Openbaarmaking geeft wel inzicht in de broncode.
-
+Andersom kan broncode ook openbaar worden gemaakt zonder OSS licentie. Daarmee blijft de broncode auteursrechtelijk
+beschermd en kan het dus niet worden hergebruikt, aangepast of worden gedeeld. Openbaarmaking geeft wel inzicht in
+de broncode.
 
 ## OSPO Reviewed License checklist
 
@@ -103,3 +100,9 @@ Om de toetsing en het gebruik van OSS licenties makkelijker te maken, kan een OS
 OSPO Reviewed License checklist bevat een overzicht van veel gebruikte OSS licenties en of deze toegestaan zijn voor 
 gebruik binnen je organisatie. Hiermee kun je een helder referentiekader neer te zetten voor je organisatie m.b.t. 
 gebruik van OSS licenties.
+
+Bronnen:
+- https://www.gnu.org/licenses/gpl-faq.en.html#InternalDistribution
+- https://www.mozilla.org/en-US/MPL/2.0/FAQ/ (Q6)
+
+
