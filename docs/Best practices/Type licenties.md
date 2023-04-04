@@ -1,7 +1,7 @@
 ```{warning}
 De documentatie is nog volop in ontwikkeling
 ```
-## Type licenties
+# Type licenties
 
 Nu we meer en meer gebruik maken van Open Source software, leek het me een goed idee om nog een keer stil te staan bij 
 Open Source Licenties en waar je op moet letten. Immers de ene Open Source licentie is de andere niet.
