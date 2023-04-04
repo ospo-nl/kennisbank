@@ -94,7 +94,8 @@ Bronnen:
 - https://www.mozilla.org/en-US/MPL/2.0/FAQ/ (Q6)
 
 Andersom kan broncode ook prima openbaar worden gemaakt zonder OSS licentie. Daarmee blijft de broncode 
-auteursrechtelijk beschermd en kan het dus niet hergebruikt worden. Openbaarmaking geeft wel inzicht in de broncode.
+auteursrechtelijk beschermd en kan het dus niet worden hergebruikt, worden aangepast worden of worden gedeeld. Openbaarmaking geeft wel inzicht in de broncode.
+
 
 ## OSPO Reviewed License checklist
 
