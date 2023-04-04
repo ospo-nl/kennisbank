@@ -13,7 +13,8 @@ Alles wat je maakt valt standaard onder het auteursrecht (copyright) als onderde
 softwareontwikkeling hebben we het dan vooral over het ontwikkelen van broncode. Door aan iemand of groepen een
 gebruikerslicentie af te geven kunnen met bepaalde voorwaarden de beperkingen van het auteursrecht worden versoepelt. 
 Je kan bijv. specifieke gebruikers een licentie geven de code te mogen gebruiken. Een open source software (OSS) 
-licentie standaardiseerd de belangrijkste aspecten die nodig zijn voor een vrije omgang met het auteursrecht. Het 
+licentie standaardiseert de belangrijkste aspecten die nodig zijn voor een vrije omgang met het auteursrecht. Het 
+
 gebruik van gestandaardiseerde licenties maakt het voor jezelf makkelijker om niet in juridische valkuilen te stappen 
 bij het opstellen van een licentie en het geeft gebruikers sneller duidelijkheid wat je precies voor ogen hebt met je 
 broncode. Daar bovenop worden de kernwaarden van OSS (zoals verwoord door de Open Source Initiative) naar de 
