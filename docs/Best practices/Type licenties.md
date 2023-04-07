@@ -9,7 +9,8 @@ Nu we meer en meer gebruik maken van Open Source software, leek het me een goed 
 Open Source Software (OSS) Licenties en waar je op moet letten. Immers de ene OSS-licentie is de andere niet.
 
 
-## Wat is een Open Source Licentie?
+## Wat is een Open Source Software Licentie?
+
 
 Alles wat je maakt valt standaard onder het auteursrecht (copyright) als onderdeel van het intellectueel eigendomsrecht
 (IE-recht) en mag dus niet zomaar door derden, zonder jouw toestemming, worden (her)gebruikt of gedeeld. Binnen
