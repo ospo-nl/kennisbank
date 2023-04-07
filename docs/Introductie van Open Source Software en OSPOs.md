@@ -1,12 +1,10 @@
-# Introductie van Open Source Sofware en OSPOs
+# Introductie van Open Source Sofware 
 
 ## 1. Open Source Software 
 
 ### 1.1 Open Source Software definitie
 
-Open source sofware (OSS) is sofware waarvan de broncode openbaar is. De broncode is het geheel van
-voor mensen leesbare programma-instructies die de programmeur (de maker) geschreven heeft.
-Daardoor is te zien hoe het programma in de basis werkt. 
+Open source software (OSS) is software die gebouwd is op basis van broncode waaraan een open source software licentie is verbonden. Die licentie geeft een eindgebruiker van de software het recht op inzage in de broncode waaruit de software is opgebouwd, daar aanpassingen op te doen en de aangepaste broncode (en verbeterde software) verder te verspreiden. Wanneer software en/of broncode waaraan een OSS-licentie is verbonden niet gedeeld wordt buiten de organisatie, dan gelden deze rechten niet. Broncode kan ook openbaar gemaakt worden zonder er een OSS-licentie aan te verbinden. In dat geval blijft de broncode auteursrechtelijk beschermd. Dat betekent dat de broncode wel bekeken en bestudeerd mag worden, maar mag worden niet aangepast of verder verspreid.
 
 ### 1.2 Voordelen van Open source Software 
 
@@ -24,7 +22,7 @@ beleidsinstrument om maatschappelijke waarde te realiseren.
 Publieke waarden
 - Een belangrijk voordeel van een openbare broncode is dat de werking van de sofware en de functies
 die daarmee worden uitgevoerd voor iedereen inzichtelijk zijn. Dat inzicht geef vertrouwen in de
-werking en past in het streven naar een transparante overheid.
+werking en past in het streven naar een transparante overheid. Openbare overheidsinformatie moet daarnaast zoveel als mogelijkheid herbruikbaar zijn. Dat regel je het makkelijkst door er ook een OSS-licentie aan te verbinden.
 - Open source biedt vele mogelijkheden om op nieuwe manieren samen te werken met ketenpartners en medeoverheden. Het draagt daarmee ook bij aan efectief en efficiënt openbaar bestuur.
 - Open source kan verder de mogelijkheden tot samenwerking met inwoners en ondernemers
 vergroten. En daarmee de participatie van de samenleving in het openbaar bestuur versterken,
@@ -49,10 +47,6 @@ Flexibiliteit en onafankelijkheid
 migratietrajecten, omdat de afankelijkheid van één leverancier wordt vermeden (vendor lock-in).
 Het maakt de overheid soevereiner en minder afankelijk van (grote, machtige, buitenlandse)
 marktpartijen.
-
-## 2. OSPO definitie
-
-TO DO
 
 ## Bronnen
 
