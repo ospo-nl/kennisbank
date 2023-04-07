@@ -1,7 +1,8 @@
 ```{warning}
 De documentatie is nog volop in ontwikkeling
 ```
-# Type licenties
+# Type Open Source Software licenties
+
 
 ## Open Source licenties
 
