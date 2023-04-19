@@ -4,7 +4,7 @@ Open Source is op zichzelf geen doel van een rechtmatige overheid. Open Source k
 rechtmatig te handelen. De direct betrok wetgeving zijn de Wet open overheid (Woo), Wet hergebruik overheidsinformatie
 (Who), Auteurswet en de Wet markt en overheid (Wet M&O).
 
-Over het auteursrecht is al voldoende beschreven op de [licenties pagina](../Best%20practices/Type%20licenties/).
+Over het auteursrecht is al voldoende beschreven op de [licenties pagina](../Best%20practices/Type%20Open%20Source%20Software%20licenties/).
 
 ## Wet open overheid
 
