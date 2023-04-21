@@ -1,0 +1,13 @@
+name: 'Check spelling'
+on: # rebuild any PRs and main branch changes
+  pull_request:
+  push:
+
+jobs:
+  spellcheck: # run the action
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dictionaries
+        run: npm install @cspell/dict-nl-nl
+      - uses: streetsidesoftware/cspell-action@v2
