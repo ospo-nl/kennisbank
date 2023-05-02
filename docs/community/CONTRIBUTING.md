@@ -203,6 +203,16 @@ documentatie ... en spaties zijn niet zo standaard voor URLs. Daarom worden er G
 Deze worden vervangen door `_`, underscores. In het genereren van de documentatie worden deze netjes vervangen door
 spaties zodat de layout er wel mooi en netjes uit ziet! :muscle:
 
+### Line endings
+
+De standaard line endings behoren LF te zijn. Hiermee is gegarandeerd dat op Linux, Windows en Mac OSX bestanden op
+dezelfde wijze worden gepresenteerd en Pull Requests gemakkelijk zijn. Lokaal uitchecken met CRLF (in Windows) en
+commits met LF is uiteraard toegestaan .. als het resultaat maar met LF in GitHub terecht komt :smile:
+
+Zie ook [Blog: Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/) en
+[GitHub Help on Line
+Endings](https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings).
+
 ## Community
 
 De OSPO-NL Community is nog in oprichting. Voor dit moment zijn er nog geen officiële kanalen en samenwerkingsverbanden
