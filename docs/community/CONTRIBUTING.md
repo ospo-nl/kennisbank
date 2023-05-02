@@ -188,8 +188,9 @@ Alle documentatie moet 'machine-readable' zijn en tegelijk ook makkelijk leesbaa
 maken we gebruik van **Markdown**. Zie ook [GitHub
 Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 en de algemene [Markdown handleiding](https://www.markdownguide.org/basic-syntax/) (EN) (of zelfs de originele
-[documentatie](https://daringfireball.net/projects/markdown/syntax)).
-De documentatie van het gebruikte [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/) thema benoemt de opmaak die extra wordt ondersteunt door het thema.
+[documentatie](https://daringfireball.net/projects/markdown/syntax)). De documentatie van het gebruikte [Material for
+MkDocs](https://squidfunk.github.io/mkdocs-material/reference/) thema benoemt de opmaak die extra wordt ondersteunt door
+het thema.
 
 Alinea's worden op of binnen **120 karakters** afgekapt om versiebeheer per regel beheersbaar te maken. Dit kan
 automatisch worden afgedwongen in tooling, bijv. [Rewrap in VSCode](https://stkb.github.io/Rewrap/) (keyboard shortcut:
@@ -198,9 +199,9 @@ automatisch worden afgedwongen in tooling, bijv. [Rewrap in VSCode](https://stkb
 ### Bestandsnamen
 
 Alle bestandsnamen, zowel van bestanden (files) als van mappen (folders), komen terug in de URL van de gepubliceerde
-documentatie ... en dat is niet zo standaard voor URLs. Daarom worden er GEEN spaties gebruikt in bestandsnamen. Deze
-worden vervangen door `_`, underscores. In het genereren van de documentatie worden deze netjes vervangen door spaties
-zodat de layout er wel mooi en netjes uit ziet! :muscle:
+documentatie ... en spaties zijn niet zo standaard voor URLs. Daarom worden er GEEN spaties gebruikt in bestandsnamen.
+Deze worden vervangen door `_`, underscores. In het genereren van de documentatie worden deze netjes vervangen door
+spaties zodat de layout er wel mooi en netjes uit ziet! :muscle:
 
 ## Community
 

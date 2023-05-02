@@ -1,11 +1,18 @@
 site_name: OSPO-NL Kennisbank
 repo_url: https://github.com/ospo-nl/kennisbank/
+edit_uri: edit/main/docs/
 theme:
   name: material
+  logo: assets/images/ospo-nl-logo-green.png
+  favicon: assets/images/ospo-nl-logo-green.png
   features:
-    - content.action.edit
+  - content.action.edit
+  - navigation.indexes
+  - navigation.path
+  - toc.follow
+  - navigation.top
 markdown_extensions:
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+- attr_list
+- pymdownx.emoji:
+    emoji_index: !!python/name:materialx.emoji.twemoji
+    emoji_generator: !!python/name:materialx.emoji.to_svg

@@ -1,7 +1,4 @@
-```{warning}
-De documentatie is nog volop in ontwikkeling
-```
-# Type Open Source Software licenties
+# Types OSS licenties
 
 
 ## Open Source Software licenties
@@ -106,7 +103,6 @@ gebruik binnen je organisatie. Hiermee kun je een helder referentiekader neer te
 gebruik van OSS licenties.
 
 Bronnen:
-- https://www.gnu.org/licenses/gpl-faq.en.html#InternalDistribution
-- https://www.mozilla.org/en-US/MPL/2.0/FAQ/ (Q6)
 
-
+- [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.en.html#InternalDistribution)
+- [Mozilla MPL FAQ (Q6)](https://www.mozilla.org/en-US/MPL/2.0/FAQ/#distribute-within-organization)

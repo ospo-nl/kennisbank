@@ -1,8 +1,6 @@
-```{warning}
-Nog vertalen naar het Nederlands
-```
-
 # Project Governance
+
+> TODO nog vertalen naar het NLs ([issue#16](https://github.com/orgs/ospo-nl/projects/1/views/1?pane=issue&itemId=19870763))
 
 The basic principle is that decisions are based on consensus. 
 If this decision-making process takes too long or a decision is required, 

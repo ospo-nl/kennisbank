@@ -1,4 +1,6 @@
-# Gedragscode / Code of Conduct
+# Code of Conduct
+
+Onze gedragscode in het Nederlands .. maar toch meer bekend als 'Code of Conduct'.
 
 ## Onze belofte
 

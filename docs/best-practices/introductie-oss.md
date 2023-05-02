@@ -1,4 +1,4 @@
-# Introductie van Open Source Sofware 
+# Introductie Open Source Sofware 
 
 ## 1. Open Source Software 
 
@@ -50,4 +50,4 @@ marktpartijen.
 
 ## Bronnen
 
-Opensourcewerken - https://open.overheid.nl/documenten/ronl-11418083f5e2244a462069137d519ef852237b3f/pdf
+- [Open Overheid - Opensourcewerken](https://open.overheid.nl/documenten/ronl-11418083f5e2244a462069137d519ef852237b3f/pdf) (pdf)

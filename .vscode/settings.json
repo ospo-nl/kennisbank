@@ -1,3 +1,4 @@
 {
-    "rewrap.wrappingColumn": 120
+    "rewrap.wrappingColumn": 120,
+    "git.alwaysSignOff": true
 }
