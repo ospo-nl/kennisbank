@@ -13,7 +13,9 @@ zoals een klein scriptjes - is een aparte checklist opgesteld met minder criteri
 
 Deze checklist afgeleid van de [Starting an Open Source
 Project](https://www.linuxfoundation.org/resources/open-source-guides/starting-an-open-source-project) lijst van de
-Linux Foundation.
+Linux Foundation. De [GitHub Default Community Health
+Files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+is ook een goede bron van inspiratie.
 
 ## Stap 1: Overwegingen
 
@@ -35,7 +37,7 @@ Linux Foundation.
 
 1. Check of het open sourcen van je project impact heeft op het intellectueel eigendom van de organisatie
 2. Bepaal onder welke open source licentie je de code wilt open sourcen. _Zie hiervoor [aanbevelingen over het kiezen
-   van een licentie](./types-open-source-software-licenties.md)_
+   van een licentie](./open-source-software-licenties.md)_
 3. Zorg er voor dat je de gekozen open source-licenties goed begrijpt en volledige naleeft
 4. Overweeg of je ook non-software outputs van de community verwacht, zo ja: bepaal onder welke open source licentie je
    dat wilt open sourcen. Dit kan een andere licentie zijn dan waaronder je code open sourced.

@@ -14,10 +14,10 @@ De Technical Steering Committee (TSC) is verantwoordelijk voor:
 
 De TSC bestaat uit de volgende leden:
 
-1. TBD
-1. TBD
-
-> TBD moet worden ingevuld
+1. Karel Rietveld
+1. Nico Rikken
+1. Maurice Hendriks
+1. Jonas van den Bogaard
 
 ## Maintainers
 
@@ -33,10 +33,12 @@ volgende verantwoordelijkheden:
 
 De huidige maintainers van dit project zijn:
 
-1. TBD
-1. TBD
-
-> TBD moet worden ingevuld
+1. Karel Rietveld
+1. Maurice Hendriks
+1. Jonas van den Bogaard
+1. Nico Rikken
+1. Arash Hoseni
+1. Marc van Andel
 
 Elk community lid of contributor kan een vraag stellen of een issue melden door het toevoegen van een GitHub issue (zie
 [Contribution Guide](./CONTRIBUTING.md).

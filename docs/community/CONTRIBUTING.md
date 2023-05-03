@@ -77,7 +77,7 @@ internet naar antwoorden te zoeken.
 Als je dan toch de behoefte voelt om een vraag te stellen en verduidelijking nodig hebt, raden we het volgende aan:
 
 - Open een [issue](https://github.com/ospo-nl/kennisbank/issues/new).
-- Geef het issue een passend label (zie [verwachtingen](#verwachtingen]).
+- Geef het issue een passend label (zie [verwachtingen](#verwachtingen)).
 - Geef zoveel mogelijk context over waar je tegenaan loopt.
 - Indien van toepassing: Lever technische afhankelijkheden die relevant lijken.
 

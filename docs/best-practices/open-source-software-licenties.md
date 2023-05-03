@@ -1,15 +1,9 @@
-# Types OSS licenties
-
-
-## Open Source Software licenties
-
+# Open Source Software licenties
 
 Nu we meer en meer gebruik maken van Open Source software, leek het me een goed idee om nog een keer stil te staan bij 
 Open Source Software (OSS) Licenties en waar je op moet letten. Immers de ene OSS-licentie is de andere niet.
 
-
 ## Wat is een Open Source Software Licentie?
-
 
 Alles wat je maakt valt standaard onder het auteursrecht (copyright) als onderdeel van het intellectueel eigendomsrecht
 (IE-recht) en mag dus niet zomaar door derden, zonder jouw toestemming, worden (her)gebruikt of gedeeld. Binnen
@@ -38,12 +32,14 @@ de software kan integreren in andere applicaties of delen hergebruiken in comple
 algemeenheid hebben OSS licenties bovenstaande elementen gemeen.
 
 ## Welke type OSS Licenties zijn er?
+
 Vaak worden OSS licenties onderscheiden op het type wederkerigheid dat gehanteerd wordt. Dat principe wordt ook wel 
 ‘copyleft’ genoemd, om de tegenhang met het protectionistische auteursrecht aan te geven. We maken dit onderscheid 
 omdat de mate van wederkerigheid een sterk effect heeft op de regels die moeten worden nageleefd. We onderscheiden 
 dan 3 smaken:
 
-### Permissive (toegeeflijk):
+### Permissive (toegeeflijk)
+
 De broncode mag naar eigen inzicht worden aangepast waaarbij de aangepaste broncode niet opnieuw openbaar gemaakt 
 hoeft te worden. Dit type broncode kan dus vrij gebruikt worden in gesloten software. In geval van de Apache 2.0 
 licentie ben je wel verplicht kenbaar te maken welke eventuele veranderingen er hebben plaatsgevonden op de 
@@ -51,14 +47,16 @@ oorspronkelijke code. In de meeste gevallen ben je ook verplicht om een verwijzi
 auteurs te op te nemen in het eindproduct. Waarbij de MIT-0 variant die laatste verplichting echter weer niet kent. 
 Bekende voorbeelden zijn: Apache 2.0, BSD en MIT.
 
-### Reciprocal / weak copyleft (zwak wederkerig):
+### Reciprocal / weak copyleft (zwak wederkerig)
+
 Deze licentie is iets beperkter dan de permissive licenties. Je bent namelijk verplicht om alle veranderingen aan de 
 oorspronkelijke code ook weer OSS beschikbaar te maken. Dus niet alleen kenbaar maken welke verbeteringen er zijn 
 gedaan, maar de letterlijk verbeterde broncode. De software waarbinnen de betreffende broncode is gebruikt hoeft niet 
 OSS te zijn als geheel. Zo kunnen broncodes met deze licenties ook zonder problemen in gesloten software gebruikt 
 worden. Bekende voorbeelden zijn: MPL v2.0, EUPL v1.2
 
-### Restricted / strong copyleft (sterk wederkerig):
+### Restricted / strong copyleft (sterk wederkerig)
+
 Deze broncode brengt bovenop de vorige licentie nog een zogenaamd 'viraal' effect mee. Dat betekent dat de 
 softwareoplossing waarbinnen dit type broncode wordt gebruikt 'geïnfecteerd' raakt door deze licentie. Als je dus
 GPLv3 broncode gebruikt in een groter geheel, dan moet het grotere geheel ook onder de GPLv3 licentie beschikbaar 
