@@ -1,9 +1,10 @@
 # OSPO-NL Kennisbank
 
-De OSPO-NL kennisbank is een verzameling van kennis en best practices voor het opzetten en uitvoeren van OSPO's (of
-OSPOs) bij organisaties in Nederland.
+De OSPO-NL kennisbank is een verzameling van kennis en best practices voor het opzetten en uitvoeren
+van OSPO's (of OSPOs) bij organisaties in Nederland.
 
-De OSPO-NL kennisbank is gepubliceerd op [ospo-nl.github.io/kennisbank](https://ospo-nl.github.io/kennisbank/).
+De OSPO-NL kennisbank is gepubliceerd op
+[ospo-nl.github.io/kennisbank](https://ospo-nl.github.io/kennisbank/).
 
 ![Kennisbank Screenshot](docs/assets/images/screenshot-kennisbank-OSPO-NL.png)
 
@@ -36,9 +37,10 @@ Voor de [roadmap](https://github.com/orgs/ospo-nl/projects/1) gebruiken we GitHu
 
 ## Formaliteiten
 
-Dit project is opgezet als een open source project. Iedereen is welkom om bijdragen te leveren. De licentie is daarom
-ook vrij en geeft ook vrijheid om afgeleide werken te maken. Wij zijn inclusief en maken geen onderscheid in etniciteit,
-sekse of andere persoonlijke voorkeuren; bijdragen worden geacht zich daar aan te houden.
+Dit project is opgezet als een open source project. Iedereen is welkom om bijdragen te leveren. De
+licentie is daarom ook vrij en geeft ook vrijheid om afgeleide werken te maken. Wij zijn inclusief
+en maken geen onderscheid in etniciteit, sekse of andere persoonlijke voorkeuren; bijdragen worden
+geacht zich daar aan te houden.
 
 ### Licentie 
 
@@ -47,13 +49,13 @@ License](https://github.com/ospo-nl/.github/blob/main/LICENSE)**.
 
 ### Bijdragen
 
-Lees de **[Code of Conduct](https://ospo-nl.github.io/kennisbank/community/CODE_OF_CONDUCT/)**, **[Contributing
-Guide](https://ospo-nl.github.io/kennisbank/community/CONTRIBUTING/)** en **[Project
-Governance](https://ospo-nl.github.io/kennisbank/community/PROJECT_GOVERNANCE/)** voor de details over hoe je kan
-bijdragen.
+Lees de **[Code of Conduct](https://ospo-nl.github.io/kennisbank/community/CODE_OF_CONDUCT/)**,
+**[Contributing Guide](https://ospo-nl.github.io/kennisbank/community/CONTRIBUTING/)** en **[Project
+Governance](https://ospo-nl.github.io/kennisbank/community/PROJECT_GOVERNANCE/)** voor de details
+over hoe je kan bijdragen.
 
 
 ## Contact
 
-Lees in de [SUPPORT](https://ospo-nl.github.io/kennisbank/community/SUPPORT/) over hoe je in contact kunt komen met de
-OSPO-NL community.
+Lees in de [SUPPORT](https://ospo-nl.github.io/kennisbank/community/SUPPORT/) over hoe je in contact
+kunt komen met de OSPO-NL community.

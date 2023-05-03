@@ -2,7 +2,8 @@
 
 Een nieuw open source project .. wat komt daar allemaal bij kijken?
 
-Start met onze best practice [Project Launch Checklist](../best-practices/project-launch-checklist.md).
+Start met onze best practice [Project Launch
+Checklist](../best-practices/project-launch-checklist.md).
 
 Suggesties en tips voor:
 
