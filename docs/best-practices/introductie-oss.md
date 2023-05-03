@@ -1,6 +1,6 @@
-# Introductie Open Source Sofware 
+# Introductie Open Source Sofware
 
-## 1. Open Source Software 
+## 1. Open Source Software
 
 ### 1.1 Open Source Software definitie
 
@@ -13,7 +13,7 @@ rechten niet. Broncode kan ook openbaar gemaakt worden zonder er een OSS-licenti
 In dat geval blijft de broncode auteursrechtelijk beschermd. Dat betekent dat de broncode wel
 bekeken en bestudeerd mag worden, maar mag worden niet aangepast of verder verspreid.
 
-### 1.2 Voordelen van Open source Software 
+### 1.2 Voordelen van Open source Software
 
 Over het algemeen is open source een manier van werken waarbij auteurs de broncode vrij beschikbaar
 stellen voor anderen die de code willen bekijken, kopiëren, ervan leren, aanpassen of delen. Wat

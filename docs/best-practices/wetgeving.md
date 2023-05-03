@@ -31,10 +31,10 @@ gegeven in hoofdstuk 7.4:
 > Zoals blijkt uit overweging 30 bij de richtlijn, zijn lidstaten niet verplicht om
 > computerprogramma’s onder de definitie van ‘document’ te brengen, maar dit is wel toegestaan. In
 > Nederland valt software echter al sinds de implementatie van de eerste richtlijn onder de
-> hergebruikregels. 
-> 
+> hergebruikregels.
+>
 > [...]
-> 
+>
 > Kortom, de afgelopen jaren was het dus al mogelijk om op grond van de Wob een verzoek in te dienen
 > om software openbaar te maken en op grond van de Who een verzoek in te dienen om openbare software
 > voor hergebruik beschikbaar te maken. Gezamenlijk vallen die verzoeken te kwalificeren als een
@@ -51,5 +51,3 @@ volgende toelichting gegeven:
 > Digitalisering en in lijn met eerder ‘open source, tenzij’-beleid. Via deze brief informeer ik uw
 > Kamer dat de broncode van de DigiD-app na een Woo-verzoek openbaar is gemaakt, na een open en
 > zorgvuldig proces met de indiener van dit Woo-verzoek.
-
-
