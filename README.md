@@ -18,18 +18,28 @@ De OSPO-NL kennisbank is gepubliceerd op
 
 ## Development
 
-Voordat lokaal gebouwd kan worden, moeten alle dependencies geïnstalleerd worden:
-
-(gebaseerd op [Python Poetry](https://python-poetry.org/docs/#installation) dependency & package manager)
+Voordat lokaal gebouwd kan worden, moeten alle dependencies geïnstalleerd worden. Dat is 'by
+default' gebaseerd op [Python Poetry](https://python-poetry.org/docs/#installation) dependency &
+package manager.
 
 ```bash
 poetry install --no-interaction
 ```
 
+Alternatief kan er gebruik gemaakt worden van de [Package Installer for
+Python](https://pypi.org/project/pip/) (van je Operating System) en dan zijn de volgende packages
+nodig:
+
+- python3-poetry
+- python3-poetry-core
+- mkdocs
+- mkdocs-material
+- mkdocs-material-extensions
+
 Lokaal kan vervolgens de documentatie site gebouwd en getest worden met (of `run.sh` :wink:):
 
 ```bash
-poetry run mkdocs serve -a 0.0.0.0:8000
+poetry run mkdocs serve
 ```
 
 De site kan dan lokaal benaderd worden op [http://localhost:8000](http://localhost:8000)
