@@ -68,7 +68,7 @@ Op de commandline kan dit worden uitgevoerd met een flag op het commit commando:
 
 `git commit --signoff` of `git commit -s`
 
-### Via de GitHub UI
+### Via de GitHub online interface
 
 Het komt voor dat je een kleine wijziging wilt doorvoeren via de online interface van GitHub. Je
 kunt dan zelf deze regel toevoegen. Omdat de kans groot is dat je vergeet, heeft Github een feature
