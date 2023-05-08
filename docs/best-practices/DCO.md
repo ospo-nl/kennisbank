@@ -72,8 +72,8 @@ Op de commandline kan dit worden uitgevoerd met een flag op het commit commando:
 
 Het komt voor dat je een kleine wijziging wilt doorvoeren via de online interface van GitHub. Je
 kunt dan zelf deze regel toevoegen. Omdat de kans groot is dat je vergeet, heeft Github een feature
-geïntroduceerd om dit automatische voor je te doen. Deze github feature is geactiveerd voor
-alliander-opensource github organisatie.
+geïntroduceerd om dit automatische voor je te doen. Deze github feature is kan in- of uitgeschakeld worden
+voor de GitHub organisatie.
 
 Voor andere github organisatie waar deze github feautre niet geactiveerd is, zijn er ook browser
 plugins beschikbaar die dit automatisch voor je doen (zoals GitHub - scottrigby/dco-gh-ui: Browser
