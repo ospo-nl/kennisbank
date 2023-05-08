@@ -223,9 +223,10 @@ spaties gebruikt in bestandsnamen. Deze worden vervangen door `_`, underscores. 
 de documentatie worden deze netjes vervangen door spaties zodat de layout er wel mooi en netjes uit
 ziet! :muscle:
 
-### Line endings
-
-De standaard line endings behoren LF te zijn. Hiermee is gegarandeerd dat op Linux, Windows en Mac
+### Regeleinden
+Er zijn meerdere manieren om regeleinden (Engels: line endings) te codificeren in
+bestanden. Voor dit project horen die `LF` te zijn, zoals gebruikelijk voor de
+meeste projecten. Hiermee is gegarandeerd dat op Linux, Windows en Mac
 OSX bestanden op dezelfde wijze worden gepresenteerd en Pull Requests gemakkelijk zijn. Lokaal
 uitchecken met CRLF (in Windows) en commits met LF is uiteraard toegestaan .. als het resultaat maar
 met LF in GitHub terecht komt :smile:
