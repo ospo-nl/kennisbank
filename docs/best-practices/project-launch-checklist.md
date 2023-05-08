@@ -9,8 +9,7 @@ dat je besluit een open source project te starten.
 Vul voor jezelf deze checklist in en neem contact op met de OSPO om het te bespreken.
 
 Deze checklist is bedoeld voor de grotere softwareprojecten. Voor kleine projecten van enkele
-honderden regels code - zoals een klein scriptjes - is een aparte checklist opgesteld met minder
-criteria.
+honderden regels code - zoals een klein scriptjes - voldoet een beperkte lijst van criteria.
 
 Deze checklist afgeleid van de [Starting an Open Source
 Project](https://www.linuxfoundation.org/resources/open-source-guides/starting-an-open-source-project)
