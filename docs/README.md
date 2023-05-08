@@ -10,7 +10,7 @@ Welkom bij de OSPO-NL Kennisbank!
 De OSPO-NL kennisbank is een verzameling van kennis en best practices voor het opzetten en uitvoeren
 van OSPO's bij organisaties in Nederland.
 
-Deze kennisbank dient als startpunt met vooral veel referenties naar andere bronnen .. waarbij de
+Deze kennisbank dient als startpunt met voornamelijk verwijzingen naar andere bronnen waarbij de
 Nederlandse vertalingen hier verzameld kunnen worden als deze elders (nog) niet te vinden. Bijdragen
 aan de (overwegend) Engelse bronnen mag natuurlijk ook :smile:
 
