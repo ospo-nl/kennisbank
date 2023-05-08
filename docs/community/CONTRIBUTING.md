@@ -224,12 +224,11 @@ de documentatie worden deze netjes vervangen door spaties zodat de layout er wel
 ziet! :muscle:
 
 ### Regeleinden
-Er zijn meerdere manieren om regeleinden (Engels: line endings) te codificeren in
-bestanden. Voor dit project horen die `LF` te zijn, zoals gebruikelijk voor de
-meeste projecten. Hiermee is gegarandeerd dat op Linux, Windows en Mac
-OSX bestanden op dezelfde wijze worden gepresenteerd en Pull Requests gemakkelijk zijn. Lokaal
-uitchecken met CRLF (in Windows) en commits met LF is uiteraard toegestaan .. als het resultaat maar
-met LF in GitHub terecht komt :smile:
+Er zijn meerdere manieren om regeleinden (Engels: line endings) te codificeren in bestanden. Voor
+dit project horen die `LF` te zijn, zoals gebruikelijk voor de meeste projecten. Hiermee is
+gegarandeerd dat op Linux, Windows en Mac OSX bestanden op dezelfde wijze worden gepresenteerd en
+Pull Requests gemakkelijk zijn. Lokaal uitchecken met CRLF (in Windows) en commits met LF is
+uiteraard toegestaan .. als het resultaat maar met LF in GitHub terecht komt :smile:
 
 Zie ook [Blog: Mind the End of Your
 Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/) en [GitHub Help on Line
