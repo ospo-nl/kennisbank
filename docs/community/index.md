@@ -6,3 +6,4 @@ Hier vind je alle informatie over de OSPO-NL community. Check:
 - onze [Contributing Guide](./CONTRIBUTING.md)
 - onze [Code of Conduct](./CODE_OF_CONDUCT.md) (gedragscode)
 - waar je meer [ondersteuning](./SUPPORT.md) (support) kunt vinden
+- onze [backlog](https://github.com/orgs/ospo-nl/projects/1)
