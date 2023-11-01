@@ -25,33 +25,42 @@ vergroot de hulpmiddelen waarover de organisatie kan beschikken. In de context v
 bestuur zijn de voordelen breder. Open source is een strategisch beleidsinstrument om
 maatschappelijke waarde te realiseren.
 
-Publieke waarden
+#### Publieke waarden
+
 - Een belangrijk voordeel van een openbare broncode is dat de werking van de sofware en de functies
 die daarmee worden uitgevoerd voor iedereen inzichtelijk zijn. Dat inzicht geef vertrouwen in de
 werking en past in het streven naar een transparante overheid. Openbare overheidsinformatie moet
 daarnaast zoveel als mogelijkheid herbruikbaar zijn. Dat regel je het makkelijkst door er ook een
 OSS-licentie aan te verbinden.
+
 - Open source biedt vele mogelijkheden om op nieuwe manieren samen te werken met ketenpartners en
   medeoverheden. Het draagt daarmee ook bij aan efectief en efficiënt openbaar bestuur.
+  
 - Open source kan verder de mogelijkheden tot samenwerking met inwoners en ondernemers vergroten. En
 daarmee de participatie van de samenleving in het openbaar bestuur versterken, en de legitimiteit en
 het draagvlak voor te maken keuzen in beleid en uitvoering vergroten.
 
-Veiligheid
+#### Veiligheid
+
 - Openbaarheid van de broncode biedt derden de kans om de sofwarekwaliteit te toetsen en op fouten
 of risico’s te onderzoeken. Dit kan bijdragen aan de veiligheid en betrouwbaarheid
 (veel-ogen-principe) van de sofware.
+
 - Derden kunnen verbetervoorstellen doen.
 
-Efficiency en innovatie
+#### Efficiency en innovatie
+
 - Open source bevordert hergebruik en verlaagt daarmee de ontwikkelkosten van sofware.
+  
 - Daarnaast stimuleert open source innovatie en economische groei, vanwege goedkopere toegang tot
 sofware en mogelijkheden om deze te vermarkten en te benuten in eigen diensten. Ontwikkelaars kunnen
 gebruik maken van elkaars ideeën.
+
 - Open source trekt menselijk kapitaal aan, omdat veel sofwareontwikkelaars bij voorkeur werken met
   open source.
 
-Flexibiliteit en onafankelijkheid
+#### Flexibiliteit en onafankelijkheid
+
 - Open source verhoogt de fexibiliteit in het gebruik van sofware en verkleint de kans op (kostbare)
 migratietrajecten, omdat de afankelijkheid van één leverancier wordt vermeden (vendor lock-in). Het
 maakt de overheid soevereiner en minder afankelijk van (grote, machtige, buitenlandse)
