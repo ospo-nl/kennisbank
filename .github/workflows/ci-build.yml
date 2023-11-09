@@ -1,13 +1,13 @@
-name: publish
+name: ci-build
 
 on:
-  push:
-    branches:
-      - main
+  pull_request:
+    types: [opened, synchronize, reopened]
+
 permissions:
   contents: write
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -18,4 +18,4 @@ jobs:
           python-version: 3.x
           cache: 'poetry'
       - run: poetry install --no-root
-      - run: poetry run mkdocs gh-deploy --force
+      - run: poetry run mkdocs build
