@@ -58,6 +58,10 @@ semi-overheidsorganisaties.
 - Koninklijk Nederlands Meteorologisch Instituut (KNMI)
     - KNMI [:material-github:](https://gitlab.com/KNMI-OSS/)
 
+## Provincies
+- Provincie Zeeland [:material-github:](https://github.com/ProvincieZeeland)
+      [:material-web:](https://www.zeeland.nl)
+  
 ## Zelfstandig bestuursorgaan
 - Kadaster [:material-github:](https://github.com/Kadaster)
       [:material-web:](https://www.kadaster.nl)
