@@ -76,6 +76,10 @@ semi-overheidsorganisaties.
 - Common Ground [:material-web:](https://commonground.nl/)
       [:material-gitlab:](https://gitlab.com/commonground/)
 
+## Gemeenten
+- Gemeente Nijmegen [:material-github:](https://github.com/GemeenteNijmegen/)
+      [:material-web:](https://www.nijmegen.nl)
+
 ## Private sector
 - Philips [:material-web:](https://www.philips.com/)
       [:material-github:](https://github.com/philips-software/)
