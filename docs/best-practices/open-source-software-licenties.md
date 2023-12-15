@@ -104,6 +104,29 @@ Andersom kan broncode ook openbaar worden gemaakt zonder OSS licentie. Daarmee b
 auteursrechtelijk beschermd en kan het dus niet worden hergebruikt, aangepast of worden gedeeld.
 Openbaarmaking geeft wel inzicht in de broncode.
 
+## Publieke Domein
+
+Zoals beschreven zorgt een open source licentie voor het opheffen van een groot deel van de
+beperkingen die voortvloeien uit het auteursrecht, in de vorm van een gebruikerslicentie. Een
+open source licentie verandert verder niks aan de aanwezigheid van het auteursrecht zelf. Die
+wordt er niet mee opgeheven.
+
+Door expliciet afstand te doen van al je rechten op het werk zorg je ervoor dat het werk toekomt
+aan het publieke domein. De broncode is op dat moment juridisch van niemand meer is, en daarmee
+van iedereen. Er zijn dan ook geen enkele beperkingen meer in het gebruik van de broncode, omdat
+er niemand meer is die hier juridisch op zou kunnen handhaven.
+
+Van de open source licenties komt de BSD-0 licentie komt het dichts in de buurt het publieke
+domein. Als toegevelijke licentie vereist deze ook geen naamsvermelding van de auteursrechthouder.
+De broncode blijft wel beschermd door het auteursrecht.
+
+Niet alle landen staan juridisch toe dat je op deze manier afstand doet van je rechten. Zolang je
+als auteur geen enkel gebruik maakt van de eventuele rechten die toch op het werk zouden blijven
+bestaan is er feitelijk niks aan de hand. Afhankelijk van de wetgeving waar je op dat moment aan
+gebonden bent is het goed om hier bewust van te zijn in het gebruik van dit type broncode. En is
+het mogelijk dat vergelijkbare broncode onder een source licentie vrijgegeven toch meer zekerheden
+biedt.
+
 ## OSPO Reviewed License checklist
 
 Om de toetsing en het gebruik van OSS licenties makkelijker te maken, kan een OSPO Reviewed License
@@ -115,3 +138,4 @@ Bronnen:
 
 - [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.en.html#InternalDistribution)
 - [Mozilla MPL FAQ (Q6)](https://www.mozilla.org/en-US/MPL/2.0/FAQ/#distribute-within-organization)
+- [Granting work into the public domain](https://en.wikipedia.org/wiki/Wikipedia:Granting_work_into_the_public_domain)
