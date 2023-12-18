@@ -112,7 +112,7 @@ open source licentie verandert verder niks aan de aanwezigheid van het auteursre
 wordt er niet mee opgeheven.
 
 Door expliciet afstand te doen van al je rechten op het werk zorg je ervoor dat het werk toekomt
-aan het publieke domein. De broncode is op dat moment juridisch van niemand meer is, en daarmee
+aan het publieke domein. De broncode is op dat moment juridisch van niemand meer en daarmee
 van iedereen. Er zijn dan ook geen enkele beperkingen meer in het gebruik van de broncode, omdat
 er niemand meer is die hier juridisch op zou kunnen handhaven.
 
@@ -123,7 +123,7 @@ De broncode blijft wel beschermd door het auteursrecht.
 Niet alle landen staan juridisch toe dat je op deze manier afstand doet van je rechten. Zolang je
 als auteur geen enkel gebruik maakt van de eventuele rechten die toch op het werk zouden blijven
 bestaan is er feitelijk niks aan de hand. Afhankelijk van de wetgeving waar je op dat moment aan
-gebonden bent is het goed om hier bewust van te zijn in het gebruik van dit type broncode. En is
+gebonden bent, is het goed om hier bewust van te zijn in het gebruik van dit type broncode. En is
 het mogelijk dat vergelijkbare broncode onder een source licentie vrijgegeven toch meer zekerheden
 biedt.
 
