@@ -52,6 +52,9 @@ semi-overheidsorganisaties.
 - Ministerie van Infrastructuur en Waterstaat
     - Rijkswaterstaat [:material-github:](https://github.com/RWS-NL)
       [:material-web:](https://www.rijkswaterstaat.nl)
+- Ministerie van Onderwijs, Cultuur en Wetenschap
+    - Nationaal Archief [:material-github:](https://github.com/NationaalArchief)
+      [:material-web:](http://www.nationaalarchief.nl)
 - Ministerie van Volksgezondheid, Welzijn en Sport (VWS)
     - RIVM [:material-github:](https://github.com/rivm-syso) [:material-mail:](mailto:info@rivm.nl)
       [:material-web:](http://www.rivm.nl)
@@ -62,6 +65,10 @@ semi-overheidsorganisaties.
 - Provincie Zeeland [:material-github:](https://github.com/ProvincieZeeland)
       [:material-web:](https://www.zeeland.nl)
   
+## Gemeenten
+- Gemeente Nijmegen [:material-github:](https://github.com/GemeenteNijmegen/)
+      [:material-web:](https://www.nijmegen.nl)
+
 ## Zelfstandig bestuursorgaan
 - Kadaster [:material-github:](https://github.com/Kadaster)
       [:material-web:](https://www.kadaster.nl)
@@ -69,18 +76,14 @@ semi-overheidsorganisaties.
       [:material-mail:](mailto:infoservice@cbs.nl) [:material-web:](https://www.cbs.nl)
 - Koninklijke Bibliotheek [:material-github:](https://github.com/KBNLresearch)
       [:material-web:](https://twitter.com/KBNLresearch)
-- Nationaal Archief [:material-github:](https://github.com/NationaalArchief)
-      [:material-web:](http://www.nationaalarchief.nl)
-- Alliander [:material-web:](https://www.alliander.com/nl/open-source/)
-      [:material-github:](https://github.com/MinBZK)
+
+## Overheidsprogramma
 - Common Ground [:material-web:](https://commonground.nl/)
       [:material-gitlab:](https://gitlab.com/commonground/)
 
-## Gemeenten
-- Gemeente Nijmegen [:material-github:](https://github.com/GemeenteNijmegen/)
-      [:material-web:](https://www.nijmegen.nl)
-
 ## Private sector
+- Alliander (privaat en in overheidshanden) [:material-web:](https://www.alliander.com/nl/open-source/)
+      [:material-github:](https://github.com/MinBZK)
 - Philips [:material-web:](https://www.philips.com/)
       [:material-github:](https://github.com/philips-software/)
 - TomTom [:material-web:](https://www.tomtom.com/)
