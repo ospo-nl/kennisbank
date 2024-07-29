@@ -67,6 +67,8 @@ semi-overheidsorganisaties.
       [:material-web:](https://www.kadaster.nl)
 - Centraal Bureau voor de Statistiek [:material-github:](https://github.com/statistiekcbs)
       [:material-mail:](mailto:infoservice@cbs.nl) [:material-web:](https://www.cbs.nl)
+- Kiesraad [:material-github:](https://github.com/kiesraad)
+      [:material-mail:](mailto:kiesraad@kiesraad.nl) [:material-web:](https://www.kiesraad.nl)
 - Koninklijke Bibliotheek [:material-github:](https://github.com/KBNLresearch)
       [:material-web:](https://twitter.com/KBNLresearch)
 - Nationaal Archief [:material-github:](https://github.com/NationaalArchief)
