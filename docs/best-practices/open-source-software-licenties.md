@@ -79,10 +79,9 @@ oplossing niet te infecteren met de licentie van het hergebruikte component wann
 
 ### Noten
 
-Voor een juiste toepassing van een OSS-licentie uit de smaak ‘Restricted / strong copyleft’ is meer kennis
-nodig. Ze hebben nu eenmaal meer en strengere voorwaarden dan andere licenties. Wanneer hier je onzorgvuldig
-in bent, loop je het risico dat je aangesproken / aangeklaagd wordt voor auteursrechtschending door de
-oorspronkelijke maker.
+Voor een juiste toepassing van een OSS-licentie uit de smaak ‘Restricted / strong copyleft’ is meer kennis nodig.
+Ze hebben nu eenmaal meer en strengere voorwaarden dan andere licenties.
+Wanneer je hier onzorgvuldig in bent, loop je het risico dat je aangesproken / aangeklaagd wordt voor auteursrechtschending door de oorspronkelijke maker.
 
 Met een OSS licentie geef je de controle uit handen op welke manier je broncode gebruikt gaat worden
 in nieuwe toepassingen. Je broncode kan dus gebruikt worden voor de ontwikkeling van levensreddende
