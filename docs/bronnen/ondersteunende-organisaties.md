@@ -5,9 +5,9 @@ source community.
 
 ## Project governance
 
-### [Foundation for Public Code](https://publiccode.net/)
+### [Standard for Public Code](https://www.standardforpubliccode.org)
 
-Codebase stewardship en [diverse hulpmiddelen](https://projects.publiccode.net/).
+Leidraad voor publieke softwareprojecten.
 
 ### [Linux Foundation](https://www.linuxfoundation.org/)
 
