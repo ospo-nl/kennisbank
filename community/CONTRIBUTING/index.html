@@ -1,0 +1,1525 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../CODE_OF_CONDUCT/">
+      
+      
+        <link rel="next" href="../LICENSE/">
+      
+      
+      <link rel="icon" href="../../assets/images/ospo-nl-logo-green.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.8">
+    
+    
+      
+        <title>Contributing Guide - OSPO-NL Kennisbank</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.4b4a2bd9.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#contributing-guide" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="OSPO-NL Kennisbank" class="md-header__button md-logo" aria-label="OSPO-NL Kennisbank" data-md-component="logo">
+      
+  <img src="../../assets/images/ospo-nl-logo-green.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            OSPO-NL Kennisbank
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Contributing Guide
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/ospo-nl/kennisbank/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="OSPO-NL Kennisbank" class="md-nav__button md-logo" aria-label="OSPO-NL Kennisbank" data-md-component="logo">
+      
+  <img src="../../assets/images/ospo-nl-logo-green.png" alt="logo">
+
+    </a>
+    OSPO-NL Kennisbank
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/ospo-nl/kennisbank/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../best-practices/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Best practices
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Best practices
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../best-practices/DCO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Developer Certificate of Origin (DCO)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../best-practices/GitHub/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GitHub
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../best-practices/introductie-oss/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introductie Open Source Sofware
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../best-practices/open-source-software-licenties/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Open Source Software licenties
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../best-practices/project-launch-checklist/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Launch Checklist
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../best-practices/wetgeving/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wetgeving & Open Source
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../bronnen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bronnen
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Bronnen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bronnen/nederlands-overzicht/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nederlands overzicht
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bronnen/ondersteunende-organisaties/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ondersteunende organisaties
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Community
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Community
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CODE_OF_CONDUCT/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code of Conduct
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Contributing Guide
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Contributing Guide
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#basis-regels" class="md-nav__link">
+    Basis regels
+  </a>
+  
+    <nav class="md-nav" aria-label="Basis regels">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gedragscode" class="md-nav__link">
+    Gedragscode
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#verwachtingen" class="md-nav__link">
+    Verwachtingen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ik-heb-een-vraag" class="md-nav__link">
+    Ik heb een vraag
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ik-wil-bijdragen" class="md-nav__link">
+    Ik wil bijdragen
+  </a>
+  
+    <nav class="md-nav" aria-label="Ik wil bijdragen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#issues-melden" class="md-nav__link">
+    Issues melden
+  </a>
+  
+    <nav class="md-nav" aria-label="Issues melden">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#voordat-u-een-issue-indient" class="md-nav__link">
+    Voordat u een issue indient
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hoe-dien-ik-een-goed-issue-in" class="md-nav__link">
+    Hoe dien ik een goed issue in?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#meer-hulp" class="md-nav__link">
+    Meer hulp
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#verbeteringen-voorstellen" class="md-nav__link">
+    Verbeteringen voorstellen
+  </a>
+  
+    <nav class="md-nav" aria-label="Verbeteringen voorstellen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#voordat-u-een-verbetering-indient" class="md-nav__link">
+    Voordat u een verbetering indient
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hoe-dien-ik-een-goede-verbeteringssuggestie-in" class="md-nav__link">
+    Hoe dien ik een goede verbeteringssuggestie in?
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#review-proces" class="md-nav__link">
+    Review proces
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#styleguides" class="md-nav__link">
+    Styleguides
+  </a>
+  
+    <nav class="md-nav" aria-label="Styleguides">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#markdown" class="md-nav__link">
+    Markdown
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bestandsnamen" class="md-nav__link">
+    Bestandsnamen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#regeleinden" class="md-nav__link">
+    Regeleinden
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#attribution" class="md-nav__link">
+    Attribution
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../LICENSE/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    License
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../PROJECT_GOVERNANCE/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Governance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../SUPPORT/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Support
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../over-ospo-nl/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Over OSPO-NL
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../nieuw-project/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Nieuw project
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Nieuw project
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nieuw-project/CODE_OF_CONDUCT/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code of Conduct
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nieuw-project/CONTRIBUTING/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contributing Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nieuw-project/PROJECT_GOVERNANCE/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Governance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#basis-regels" class="md-nav__link">
+    Basis regels
+  </a>
+  
+    <nav class="md-nav" aria-label="Basis regels">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gedragscode" class="md-nav__link">
+    Gedragscode
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#verwachtingen" class="md-nav__link">
+    Verwachtingen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ik-heb-een-vraag" class="md-nav__link">
+    Ik heb een vraag
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ik-wil-bijdragen" class="md-nav__link">
+    Ik wil bijdragen
+  </a>
+  
+    <nav class="md-nav" aria-label="Ik wil bijdragen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#issues-melden" class="md-nav__link">
+    Issues melden
+  </a>
+  
+    <nav class="md-nav" aria-label="Issues melden">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#voordat-u-een-issue-indient" class="md-nav__link">
+    Voordat u een issue indient
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hoe-dien-ik-een-goed-issue-in" class="md-nav__link">
+    Hoe dien ik een goed issue in?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#meer-hulp" class="md-nav__link">
+    Meer hulp
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#verbeteringen-voorstellen" class="md-nav__link">
+    Verbeteringen voorstellen
+  </a>
+  
+    <nav class="md-nav" aria-label="Verbeteringen voorstellen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#voordat-u-een-verbetering-indient" class="md-nav__link">
+    Voordat u een verbetering indient
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hoe-dien-ik-een-goede-verbeteringssuggestie-in" class="md-nav__link">
+    Hoe dien ik een goede verbeteringssuggestie in?
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#review-proces" class="md-nav__link">
+    Review proces
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#styleguides" class="md-nav__link">
+    Styleguides
+  </a>
+  
+    <nav class="md-nav" aria-label="Styleguides">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#markdown" class="md-nav__link">
+    Markdown
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bestandsnamen" class="md-nav__link">
+    Bestandsnamen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#regeleinden" class="md-nav__link">
+    Regeleinden
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#attribution" class="md-nav__link">
+    Attribution
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/ospo-nl/kennisbank/edit/main/docs/community/CONTRIBUTING.md" title="Edit this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+
+
+<h1 id="contributing-guide">Contributing Guide</h1>
+<blockquote>
+<p><em>Voor het maken van een eigen CONTRIBUTING kijk onderaan bij <a href="#attribution">Attribution</a></em></p>
+</blockquote>
+<p>Om te beginnen, hartelijk dank voor je interesse om bij te dragen aan dit OSPO-NL initiatief! Door
+te delen in kennis en ervaring en samen te werken komen we tot 'best practices' en hulp om Open
+Source projecten in Nederland goed te organiseren.</p>
+<blockquote>
+<p><strong>For non-Dutch native readers</strong>: First off, thank you for your interest to contribute to this
+OSPO-NL initiative! By sharing knowledge and experiences and collaborate we'll be able to produce
+Best Practices and help to set up Open Source projects in The Netherlands. Because the gap between
+needs and knowledge in The Netherlands the content of this initiative will be mainly in Dutch.</p>
+<p>We are very sorry if this creates a feeling of not being inclusive ... which is of course against
+our <a href="../CODE_OF_CONDUCT/">Code of Conduct</a>; We would like to be as inclusive as possible!</p>
+<p>BUT to choose to write mainly in Dutch we will be more inclusive to the less equiped and Dutch
+native readers of our content and those are the primary focus of these practices. Nonetheless,
+much content is probably not managed here or produced inside these repositories but will be linked
+to or just translated summaries of content elsewhere.</p>
+</blockquote>
+<p>Door deze richtlijnen te volgen, communiceer je dat je de tijd respecteert van de ontwikkelaars die
+dit open source-project beheren en ontwikkelen. In ruil daarvoor moeten ze dat respect beantwoorden
+bij het aanpakken van uw melding, het beoordelen van wijzigingen en het helpen afronden van uw pull
+requests.</p>
+<p>Houd een open geest! Het verbeteren van documentatie, melden van fouten, of bijdragen aandragen zijn
+voorbeelden van nuttige bijdragen. Veel informatie is mogelijk al ergens beschikbaar, waarschijnlijk
+in het Engels, en het verwijzen naar andere documentatie helpt ons allemaal. Helemaal als daar
+samenvattingen (of volledige) vertalingen van in het Nederlands toegevoegd worden (daar of in dit
+project)!</p>
+<p>Mochten bijdragen niet voldoen aan deze richtlijnen dan houden wij ons de vrijheid om commentaren te
+negeren en bijdragen te sluiten. Daarbij zullen wij verwijzen naar deze richtlijnen / Contributing
+Guide.</p>
+<blockquote>
+<p>En als je het project leuk vindt, maar gewoon geen tijd hebt om bij te dragen, is dat prima. Er
+zijn andere eenvoudige manieren om het project te steunen en je waardering te tonen, waar we ook
+erg blij mee zijn:</p>
+<ul>
+<li>Geef het project een ster</li>
+<li>Tweet erover</li>
+<li>Verwijs naar dit project in de readme van uw project</li>
+<li>Noem het project op lokale meetups en vertel het aan je vrienden/collega's</li>
+</ul>
+</blockquote>
+<h2 id="basis-regels">Basis regels</h2>
+<h3 id="gedragscode">Gedragscode</h3>
+<p>Dit project en iedereen die eraan deelneemt, wordt bestuurd door de <a href="../CODE_OF_CONDUCT/">OSPO-NL
+Gedragscode</a>. Door deel te nemen, wordt van u verwacht dat u zich aan deze code
+houdt. Gelieve onaanvaardbaar gedrag te melden volgens de
+<a href="../CODE_OF_CONDUCT/#handhaving">Gedragscode#Handhaving</a>.</p>
+<h3 id="verwachtingen">Verwachtingen</h3>
+<p>Vrijwel alle content is beschreven in Markdown. Daarbij maken wij gebruik van MkDocs Material om
+alle documentatie te publiceren. Bij gebruik van plaatjes is het fijn als de bron daarvan ook
+onderdeel is van dit project ... en bij voorkeur in een open formaat. Dat betekent dat deze
+aangepast en bijgewerkt kunnen worden zonder kosten te maken voor tools. Nogmaals: bij voorkeur.</p>
+<ul>
+<li>Zorg dat bijdragen cross-platform uitwisselbaar zijn: Windows, Mac, Linux.</li>
+<li>Zorg dat code en documentatie compleet is en voldoet aan de <a href="#styleguides">styleguides</a>.</li>
+<li>Maak issues aan voor elke grote wijziging en verbetering die je graag wilt maken. Bespreek de
+  dingen transparant en vraag community feedback.</li>
+<li>Probeer bijdragen compact en klein te houden; dat draagt bij aan het behoud van overzicht en
+  wijzigingen.</li>
+<li>Wees open naar nieuwe mensen en moedig nieuwe bijdragen aan van alle achtergronden.</li>
+<li>Issues behoren van een passend label te zijn voorzien:</li>
+<li><code>Bug</code> betekent een urgent probleem in de community of in de documentatie</li>
+<li><code>Enhancement</code> betekent een bijdrage voor uitbreiding</li>
+<li><code>Question</code> betekent een vraag</li>
+</ul>
+<h2 id="ik-heb-een-vraag">Ik heb een vraag</h2>
+<blockquote>
+<p>Als je een vraag wilt stellen, gaan we ervan uit dat je de beschikbare
+<a href="https://ospo-nl.github.io/kennisbank/">documentatie</a> hebt gelezen.</p>
+</blockquote>
+<p>Voordat je een vraag stelt, kun je het beste zoeken naar bestaande
+<a href="https://github.com/ospo-nl/kennisbank/issues">issues</a> die je kunnen helpen. Als u een geschikt
+probleem hebt gevonden en nog steeds verduidelijking nodig heeft, kunt u uw vraag in dit nummer
+schrijven. Het is ook raadzaam om eerst op internet naar antwoorden te zoeken.</p>
+<p>Als je dan toch de behoefte voelt om een vraag te stellen en verduidelijking nodig hebt, raden we
+het volgende aan:</p>
+<ul>
+<li>Open een <a href="https://github.com/ospo-nl/kennisbank/issues/new">issue</a>.</li>
+<li>Geef het issue een passend label (zie <a href="#verwachtingen">verwachtingen</a>).</li>
+<li>Geef zoveel mogelijk context over waar je tegenaan loopt.</li>
+<li>Indien van toepassing: Lever technische afhankelijkheden die relevant lijken.</li>
+</ul>
+<p>We zullen het probleem dan zo snel mogelijk in behandeling nemen.</p>
+<h2 id="ik-wil-bijdragen">Ik wil bijdragen</h2>
+<blockquote>
+<p><strong>Juridische mededeling</strong></p>
+<p>Wanneer u bijdraagt aan dit project, moet u ermee instemmen dat u 100% van de inhoud hebt
+geschreven, dat u over de benodigde rechten op de inhoud beschikt en dat de inhoud die u bijdraagt
+onder de projectlicentie mag worden geleverd.</p>
+</blockquote>
+<h3 id="issues-melden">Issues melden</h3>
+<h4 id="voordat-u-een-issue-indient">Voordat u een issue indient</h4>
+<p>Een goed issue zou er niet voor moeten zorgen dat anderen u moeten achtervolgen voor meer
+informatie. Daarom vragen we u om dit zorgvuldig te onderzoeken, informatie te verzamelen en het
+probleem in detail te beschrijven in uw melding.</p>
+<ul>
+<li>Zorg ervoor dat u de nieuwste versie gebruikt.</li>
+<li>Lees de <a href="https://ospo-nl.github.io/kennisbank/">documentatie</a> aandachtig door en ontdek of de
+  functionaliteit al wordt gedekt, misschien door een individuele configuratie.</li>
+<li>Voer een <a href="https://github.com/ospo-nl/kennisbank/issues">zoekopdracht</a> uit om te zien of de
+  verbetering al is voorgesteld. Als dit het geval is, voeg dan een opmerking toe aan de bestaande
+  uitgave in plaats van een nieuwe te openen.</li>
+</ul>
+<p>Voor dit moment is er alleen documentatie en zijn verdere voorbereidingen niet nodig. Mocht er ooit
+tools en software componenten opgeleverd worden, dan is het van belang om de details daarvan ook
+duidelijk te melden en te onderzoeken of het daadwerkelijk een probleem met die software is of dat
+het wellicht toch een fout in uw omgeving is.</p>
+<h4 id="hoe-dien-ik-een-goed-issue-in">Hoe dien ik een goed issue in?</h4>
+<blockquote>
+<p>U mag beveiligingsgerelateerde problemen, kwetsbaarheden of issues, inclusief gevoelige
+informatie, nooit melden aan de issue tracker of elders in het openbaar. In plaats daarvan moeten
+gevoelige bugs per e-mail naar <TODO> worden gestuurd.</p>
+</blockquote>
+<p>We gebruiken GitHub-problemen om issue en fouten op te sporen. Als u een probleem met het project
+tegenkomt:</p>
+<ul>
+<li>Open een <a href="https://github.com/ospo-nl/kennisbank/issues/new">issue</a>. (Omdat we op dit moment niet
+  zeker weten of het een fout is of niet, vragen we je om nog niet over een fout te praten en het
+  probleem niet te labelen.)</li>
+<li>Leg zo duidelijk mogelijk uit wat u verwacht of wens en geef suggesties voor invulling daarvan.</li>
+<li>Geef de informatie op die u in het vorige gedeelte hebt verzameld.</li>
+</ul>
+<p>Zodra het is ingediend:</p>
+<ul>
+<li>Het projectteam zal het probleem dienovereenkomstig labelen.</li>
+<li>Een teamlid zal proberen het issue te begrijpen en op te volgen.</li>
+</ul>
+<h4 id="meer-hulp">Meer hulp</h4>
+<p>Hier zijn een paar vriendelijke (maar Engelse) handleidingen voor meer hulp en achtergronden: <a href="http://www.firsttimersonly.com/">First
+Timers Only</a> en <a href="http://makeapullrequest.com/">Make A Pull Request</a></p>
+<h3 id="verbeteringen-voorstellen">Verbeteringen voorstellen</h3>
+<p>Deze sectie begeleidt u bij het indienen van een verbeteringssuggestie voor OSPO-NL, <strong>inclusief
+volledig nieuwe functies en kleine verbeteringen aan bestaande functionaliteit</strong>. Door deze
+richtlijnen te volgen, kunnen beheerders en de community uw suggestie begrijpen en gerelateerde
+suggesties vinden.</p>
+<h4 id="voordat-u-een-verbetering-indient">Voordat u een verbetering indient</h4>
+<ul>
+<li>Zorg ervoor dat u de nieuwste versie gebruikt.</li>
+<li>Lees de <a href="https://ospo-nl.github.io/kennisbank/">documentatie</a> aandachtig door en ontdek of de
+  functionaliteit al wordt gedekt, misschien door een individuele configuratie.</li>
+<li>Voer een <a href="https://github.com/ospo-nl/kennisbank/issues">zoekopdracht</a> uit om te zien of de
+  verbetering al is voorgesteld. Als dit het geval is, voeg dan een opmerking toe aan de bestaande
+  uitgave in plaats van een nieuwe te openen.</li>
+<li>Ga na of uw idee past binnen de reikwijdte en doelstellingen van het project. Het is aan u om een
+  sterk pleidooi te houden om de ontwikkelaars van het project te overtuigen van de voordelen van
+  deze functie. Houd er rekening mee dat we functies willen die nuttig zijn voor de meerderheid van
+  onze gebruikers en niet slechts voor een kleine subgroep. Als u zich slechts op een minderheid van
+  gebruikers richt, overweeg dan om een bibliotheek met add-ons/plug-ins te schrijven.</li>
+</ul>
+<h4 id="hoe-dien-ik-een-goede-verbeteringssuggestie-in">Hoe dien ik een goede verbeteringssuggestie in?</h4>
+<p>Suggesties voor verbeteringen worden bijgehouden als <a href="https://github.com/ospo-nl/kennisbank/issues">GitHub
+issues</a>.</p>
+<ul>
+<li>Gebruik een <strong>duidelijke en beschrijvende titel</strong> voor het probleem om de suggestie te
+  identificeren.</li>
+<li>Geef een stapsgewijze beschrijving van de voorgestelde verbetering met zoveel mogelijk details.</li>
+<li>Beschrijf het huidige gedrag en leg uit welk gedrag je in plaats daarvan verwachtte te zien en
+  waarom. Op dit punt kunt u ook zien welke alternatieven niet voor u werken.</li>
+<li>Misschien wilt u schermafbeeldingen en geanimeerde GIF's toevoegen die u helpen de stappen te
+  demonstreren of aan te geven op welk onderdeel de suggestie betrekking heeft. U kunt deze tool
+  gebruiken om GIF's op macOS en Windows op te nemen, en deze tool of deze tool op Linux.</li>
+<li>Leg uit waarom deze verbetering nuttig zou zijn voor de meeste gebruikers van OSPO-NL. Misschien
+  wil je ook wijzen op de andere projecten die het beter hebben opgelost en die als inspiratie
+  kunnen dienen.</li>
+</ul>
+<h2 id="review-proces">Review proces</h2>
+<p>Om wijzigingen goed te kunnen beheren, volgen en uit te leggen, volgen we een eenvoudig proces van
+review en Pull Requests (PRs).</p>
+<ul>
+<li>Wijzigingen wordt nooit direct op de <code>main</code> branch gedaan, maar altijd in een 'feature' branch.</li>
+<li>Maak een Pull Request aan zodra je klaar bent. Of maak gelijk een Draft Pull Request aan nadat u
+  uw feature branch hebt aangemaakt. Zodra uw wijzigingen klaar zijn voor review, wijzigt u uw Draft
+  PR naar 'Ready for Review'.</li>
+<li>Een teamlid reviewt de wijzigingen in het Pull Request en geeft commentaar en/of goedkeuring
+  (Approve).</li>
+<li>Na goedkeuring kan het Pull Request gemerged worden. Hiervoor wordt standaard 'Squash &amp; Merge'
+  gebruikt. In geval dat de PR door een teamlid is ingediend, reviewt een ander teamlid de PR maar
+  wordt de merge overgelaten aan de auteur van de PR.</li>
+<li>Na de merge dienen bijbehorende issues bijgewerkt te worden zodat deze niet onnodig open blijven
+  staan ofwel beantwoord worden.</li>
+</ul>
+<h2 id="styleguides">Styleguides</h2>
+<h3 id="markdown">Markdown</h3>
+<p>Alle documentatie moet 'machine-readable' zijn en tegelijk ook makkelijk leesbaar en onderhoudbaar
+voor mensen. Daarom maken we gebruik van <strong>Markdown</strong>. Zie ook <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">GitHub
+Markdown</a>
+en de algemene <a href="https://www.markdownguide.org/basic-syntax/">Markdown handleiding</a> (EN) (of zelfs de
+originele <a href="https://daringfireball.net/projects/markdown/syntax">documentatie</a>). De documentatie van
+het gebruikte <a href="https://squidfunk.github.io/mkdocs-material/reference/">Material for MkDocs</a> thema
+benoemt de opmaak die extra wordt ondersteunt door het thema.</p>
+<p>Alinea's worden op of binnen <strong>100 karakters</strong> afgekapt om versiebeheer per regel beheersbaar te
+maken. Dit kan automatisch worden afgedwongen in tooling, bijv. <a href="https://stkb.github.io/Rewrap/">Rewrap in
+VSCode</a> (keyboard shortcut: <code>alt+Q</code>).</p>
+<h3 id="bestandsnamen">Bestandsnamen</h3>
+<p>Alle bestandsnamen, zowel van bestanden (files) als van mappen (folders), komen terug in de URL van
+de gepubliceerde documentatie ... en spaties zijn niet zo standaard voor URLs. Daarom worden er GEEN
+spaties gebruikt in bestandsnamen. Deze worden vervangen door <code>_</code>, underscores. In het genereren van
+de documentatie worden deze netjes vervangen door spaties zodat de layout er wel mooi en netjes uit
+ziet! <img alt="💪" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f4aa.svg" title=":muscle:" /></p>
+<h3 id="regeleinden">Regeleinden</h3>
+<p>Er zijn meerdere manieren om regeleinden (Engels: line endings) te codificeren in bestanden. Voor
+dit project horen die <code>LF</code> te zijn, zoals gebruikelijk voor de meeste projecten. Hiermee is
+gegarandeerd dat op Linux, Windows en Mac OSX bestanden op dezelfde wijze worden gepresenteerd en
+Pull Requests gemakkelijk zijn. Lokaal uitchecken met CRLF (in Windows) en commits met LF is
+uiteraard toegestaan .. als het resultaat maar met LF in GitHub terecht komt <img alt="😄" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f604.svg" title=":smile:" /></p>
+<p>Zie ook <a href="https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/">Blog: Mind the End of Your
+Line</a> en <a href="https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings">GitHub Help on Line
+Endings</a>.</p>
+<h2 id="community">Community</h2>
+<p>De OSPO-NL Community is nog in oprichting. Voor dit moment zijn er nog geen officiële kanalen en
+samenwerkingsverbanden anders dan actief betrokken personen. Zie ook meer in de <a href="https://ospo-nl.github.io/kennisbank/Over_ons">over
+ons</a>.</p>
+<h2 id="attribution">Attribution</h2>
+<p>Een eigen CONTRIBUTING maken is niet echt moeilijk ... en toch ook weer wel. Inspiratie voor deze
+variant komt van een
+<a href="https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md">template</a> en
+<strong>contributing-gen</strong>. <a href="https://github.com/bttger/contributing-gen">Genereer zelf</a> (incl. CODE OF
+CONDUCT) !</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["content.action.edit", "navigation.indexes", "navigation.path", "toc.follow", "navigation.top"], "search": "../../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.81fa17fe.min.js"></script>
+      
+    
+  </body>
+</html>
