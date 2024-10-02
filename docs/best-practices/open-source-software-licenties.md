@@ -45,7 +45,7 @@ regels die moeten worden nageleefd. We onderscheiden dan 3 smaken:
 
 ### Permissive (toegeeflijk)
 
-De broncode mag naar eigen inzicht worden aangepast waaarbij de aangepaste broncode niet opnieuw
+De broncode mag naar eigen inzicht worden aangepast waarbij de aangepaste broncode niet opnieuw
 openbaar gemaakt hoeft te worden. Dit type broncode kan dus vrij gebruikt worden in gesloten
 software. In geval van de Apache 2.0 licentie ben je wel verplicht kenbaar te maken welke eventuele
 veranderingen er hebben plaatsgevonden op de oorspronkelijke code. In de meeste gevallen ben je ook
@@ -67,7 +67,7 @@ voorbeelden zijn: MPL v2.0, EUPL v1.2
 Deze broncode brengt bovenop de vorige licentie nog een zogenaamd 'viraal' effect mee. Dat betekent
 dat de softwareoplossing waarbinnen dit type broncode wordt gebruikt 'geïnfecteerd' raakt door deze
 licentie. Als je dus GPLv3 broncode gebruikt in een groter geheel, dan moet het grotere geheel ook
-onder de GPLv3 licentie beschikbaar gesteld worden. Vooorbeeld: Software A bestaat uit component A
+onder de GPLv3 licentie beschikbaar gesteld worden. Voorbeeld: Software A bestaat uit component A
 (MIT), B (EUPL) en C (GPLv3). Dat betekent dat software A als geheel onder de GPLv3 licentie valt.
 Component A en component B kunnen nog steeds wel onafhankelijk hergebruikt worden onder hun
 oorspronkelijke licentie. Strong copyleft licenties zijn dus niet verenigbaar met gesloten software.
@@ -79,11 +79,9 @@ oplossing niet te infecteren met de licentie van het hergebruikte component wann
 
 ### Noten
 
-Een OSS licentie uit de smaak ‘Restricted / strong copyleft’ vergt meer kennis van deze betreffende
-OSS licentie om deze juist te kunnen toe te passen. Als je gebruikt maakt van OSS met een OSS
-licentie uit deze smaak dien je met meer voorwaarden rekening te houden. Wanneer je onjuist rekening
-houd met deze voorwaarden loop je het risico dat je aangesproken / aangeklaagd voor
-auteursrechtschending door de oorspronkelijke maker.
+Voor een juiste toepassing van een OSS-licentie uit de smaak ‘Restricted / strong copyleft’ is meer kennis nodig.
+Ze hebben nu eenmaal meer en strengere voorwaarden dan andere licenties.
+Wanneer je hier onzorgvuldig in bent, loop je het risico dat je aangesproken / aangeklaagd wordt voor auteursrechtschending door de oorspronkelijke maker.
 
 Met een OSS licentie geef je de controle uit handen op welke manier je broncode gebruikt gaat worden
 in nieuwe toepassingen. Je broncode kan dus gebruikt worden voor de ontwikkeling van levensreddende
@@ -106,7 +104,7 @@ Openbaarmaking geeft wel inzicht in de broncode.
 
 ## Publieke Domein
 
-Zoals beschreven zorgt een open source licentie voor het opheffen van een groot deel van de
+Zoals beschreven zorgt een open source licentie voor het soepelere omgang van een groot deel van de
 beperkingen die voortvloeien uit het auteursrecht, in de vorm van een gebruikerslicentie. Een
 open source licentie verandert verder niks aan de aanwezigheid van het auteursrecht zelf. Die
 wordt er niet mee opgeheven.
