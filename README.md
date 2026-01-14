@@ -1,3 +1,8 @@
+**❗De OSPO-NL-kennisbank wordt niet langer actief onderhouden. Kijk op https://www.opensourcewerken.nl
+ voor de meest actuele informatie en verwijzingen naar andere relevante bronnen. Veel van de kennis uit
+ deze kennisbank is inmiddels (ook) te vinden op
+ [https://minvws.opensourcewerken.nl](https://minvws.opensourcewerken.nl).❗**
+
 # OSPO-NL Kennisbank
 
 De OSPO-NL kennisbank is een verzameling van kennis en best practices voor het opzetten en uitvoeren
